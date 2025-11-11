@@ -1,0 +1,1493 @@
+图片转 WebP 格式转换总结
+生成时间: 2025-11-11 09:59:36
+================================================================================
+
+统计数据:
+  成功转换: 365 个文件
+  跳过文件: 1 个文件
+  失败文件: 2 个文件
+  总耗时: 44.882s
+
+体积对比:
+  转换前总体积: 54.30 MB
+  转换后总体积: 48.16 MB
+  节省空间: 6.13 MB (11.3%)
+
+--------------------------------------------------------------------------------
+成功转换的文件 (365):
+
+  static/ghibli_style/Bamboo_Pith_Velvet_Foot_Mushroom_Chicken_Soup.jpeg
+    大小: 351.20 KB → 314.22 KB
+    压缩率: 10.5%
+
+  static/images/Apple_Hawthorn_Black_Tea.png
+    大小: 110.40 KB → 26.48 KB
+    压缩率: 76.0%
+
+  static/images/Bamboo_Pith_Velvet_Foot_Mushroom_Chicken_Soup.jpeg
+    大小: 25.47 KB → 15.27 KB
+    压缩率: 40.1%
+
+  static/images/Bamboo_Shoots_Braised_Pork.png
+    大小: 17.62 KB → 6.90 KB
+    压缩率: 60.8%
+
+  static/images/Bamboo_Shoots_Chicken_Dice_Rice_Bowl.png
+    大小: 15.27 KB → 5.93 KB
+    压缩率: 61.1%
+
+  static/images/Bamboo_Shoots_Steamed_Chicken_Wings.jpg
+    大小: 4.21 KB → 2.85 KB
+    压缩率: 32.4%
+
+  static/images/Bangbang_Shrimp.png
+    大小: 11.99 KB → 2.87 KB
+    压缩率: 76.1%
+
+  static/images/Beef_Box.png
+    大小: 15.25 KB → 2.43 KB
+    压缩率: 84.1%
+
+  static/images/Blanched_Dishes/Broccoli_with_Sauce.jpg
+    大小: 274.54 KB → 244.89 KB
+    压缩率: 10.8%
+
+  static/images/Blanched_Dishes/Chicken_Soup_Baby_Cabbage.jpg
+    大小: 276.38 KB → 241.95 KB
+    压缩率: 12.5%
+
+  static/images/Blanched_Dishes/Crispy_Wood_Ear_Mushrooms.jpg
+    大小: 285.48 KB → 265.28 KB
+    压缩率: 7.1%
+
+  static/images/Blanched_Dishes/Scallion_Oil_Chinese_Broccoli.jpg
+    大小: 268.35 KB → 235.39 KB
+    压缩率: 12.3%
+
+  static/images/Blanched_Dishes/Scallion_Oil_Mixed_Noodles.jpg
+    大小: 237.45 KB → 225.60 KB
+    压缩率: 5.0%
+
+  static/images/Blanched_Dishes/Scallion_Oil_Rapeseed.jpg
+    大小: 273.22 KB → 244.48 KB
+    压缩率: 10.5%
+
+  static/images/Blanched_Dishes/Special_Hot_Dry_Noodles.jpg
+    大小: 325.98 KB → 304.79 KB
+    压缩率: 6.5%
+
+  static/images/Blanched_Dishes/Spicy_Chicken_Pieces.jpg
+    大小: 453.72 KB → 457.66 KB
+    压缩率: -0.9%
+
+  static/images/Blanched_Dishes/Spinach_Egg_Skin_Shreds.jpg
+    大小: 293.65 KB → 268.51 KB
+    压缩率: 8.6%
+
+  static/images/Boiled_Eggs.png
+    大小: 13.12 KB → 2.38 KB
+    压缩率: 81.8%
+
+  static/images/Braised_Chicken_Feet.png
+    大小: 17.86 KB → 5.19 KB
+    压缩率: 70.9%
+
+  static/images/Braised_Chicken_Legs.png
+    大小: 13.55 KB → 3.59 KB
+    压缩率: 73.5%
+
+  static/images/Braised_Chicken_Wings.png
+    大小: 15.95 KB → 4.92 KB
+    压缩率: 69.1%
+
+  static/images/Braised_Eggplant.jpg
+    大小: 6.84 KB → 5.78 KB
+    压缩率: 15.6%
+
+  static/images/Braised_Fish_Fillet.png
+    大小: 17.40 KB → 5.34 KB
+    压缩率: 69.3%
+
+  static/images/Braised_Spare_Ribs.png
+    大小: 21.78 KB → 7.11 KB
+    压缩率: 67.3%
+
+  static/images/Braised_Tofu_Skin.png
+    大小: 17.80 KB → 3.94 KB
+    压缩率: 77.9%
+
+  static/images/Breakfast/Beef_Box.jpg
+    大小: 276.70 KB → 244.02 KB
+    压缩率: 11.8%
+
+  static/images/Breakfast/Boiled_Eggs.jpg
+    大小: 182.97 KB → 155.79 KB
+    压缩率: 14.9%
+
+  static/images/Breakfast/Chicken_Broth_Soup_Buns.jpg
+    大小: 219.52 KB → 184.31 KB
+    压缩率: 16.0%
+
+  static/images/Breakfast/Crispy_Beef_Pancake.jpg
+    大小: 243.47 KB → 210.06 KB
+    压缩率: 13.7%
+
+  static/images/Breakfast/Egg_Pancake.jpg
+    大小: 282.07 KB → 254.66 KB
+    压缩率: 9.7%
+
+  static/images/Breakfast/Flower_Roll.jpg
+    大小: 272.49 KB → 219.23 KB
+    压缩率: 19.5%
+
+  static/images/Breakfast/Fresh_Cooked_Bean_Porridge.jpg
+    大小: 269.54 KB → 244.20 KB
+    压缩率: 9.4%
+
+  static/images/Breakfast/Fresh_Fried_Youtiao.jpg
+    大小: 313.79 KB → 279.44 KB
+    压缩率: 10.9%
+
+  static/images/Breakfast/Handmade_Shaomai.jpg
+    大小: 237.58 KB → 176.71 KB
+    压缩率: 25.6%
+
+  static/images/Breakfast/Handmade_Spring_Rolls.jpg
+    大小: 251.45 KB → 190.54 KB
+    压缩率: 24.2%
+
+  static/images/Breakfast/Millet_Pumpkin_Porridge.jpg
+    大小: 230.61 KB → 201.12 KB
+    压缩率: 12.8%
+
+  static/images/Breakfast/Pastry_Radish_Shreds_Pie.jpg
+    大小: 312.81 KB → 277.52 KB
+    压缩率: 11.3%
+
+  static/images/Breakfast/Red_Bean_Paste_Yuanxiao.jpg
+    大小: 279.59 KB → 256.24 KB
+    压缩率: 8.4%
+
+  static/images/Breakfast/Rice_Ball.jpg
+    大小: 247.48 KB → 203.34 KB
+    压缩率: 17.8%
+
+  static/images/Breakfast/Rice_Cake.jpg
+    大小: 280.86 KB → 213.22 KB
+    压缩率: 24.1%
+
+  static/images/Breakfast/ShepherdS_Purse_Fresh_Meat_Dumplings.jpg
+    大小: 237.92 KB → 200.70 KB
+    压缩率: 15.6%
+
+  static/images/Breakfast/Steamed_Bun.jpg
+    大小: 300.34 KB → 249.61 KB
+    压缩率: 16.9%
+
+  static/images/Breakfast/Steamed_Stuffed_Bun.jpg
+    大小: 297.80 KB → 276.07 KB
+    压缩率: 7.3%
+
+  static/images/Breakfast/Tea_Eggs.jpg
+    大小: 239.95 KB → 213.81 KB
+    压缩率: 10.9%
+
+  static/images/Breakfast/White_Rice_Porridge.jpg
+    大小: 271.90 KB → 198.35 KB
+    压缩率: 27.0%
+
+  static/images/Broad_Beans_Scrambled_Eggs.jpg
+    大小: 5.40 KB → 4.29 KB
+    压缩率: 20.4%
+
+  static/images/Broccoli_with_Sauce.jpg
+    大小: 7.72 KB → 6.64 KB
+    压缩率: 14.0%
+
+  static/images/Cabbage_Stewed_Tofu.jpg
+    大小: 5.23 KB → 4.01 KB
+    压缩率: 23.4%
+
+  static/images/Carrot_Beef.png
+    大小: 18.13 KB → 5.10 KB
+    压缩率: 71.9%
+
+  static/images/Carrot_Scrambled_Eggs.jpg
+    大小: 5.69 KB → 4.27 KB
+    压缩率: 25.0%
+
+  static/images/Carrot_Stir_Fried_Pork_Slices.jpg
+    大小: 5.74 KB → 4.70 KB
+    压缩率: 18.1%
+
+  static/images/Carrot_Stir_Fried_Wood_Ear_Mushrooms.jpg
+    大小: 4.78 KB → 3.46 KB
+    压缩率: 27.4%
+
+  static/images/Casserole_Dishes/Clay_Pot_Beef_Offal_Hotpot.jpg
+    大小: 315.60 KB → 290.87 KB
+    压缩率: 7.8%
+
+  static/images/Casserole_Dishes/Clay_Pot_Garlic_Vermicelli_Shrimp.jpg
+    大小: 373.36 KB → 362.18 KB
+    压缩率: 3.0%
+
+  static/images/Casserole_Dishes/Clay_Pot_Original_Chicken_Soup_Rice_Noodles.jpg
+    大小: 326.73 KB → 303.62 KB
+    压缩率: 7.1%
+
+  static/images/Casserole_Dishes/Clay_Pot_Papaya.jpg
+    大小: 366.14 KB → 340.42 KB
+    压缩率: 7.0%
+
+  static/images/Casserole_Dishes/Clay_Pot_Pickled_Chili_Chicken_Nuggets_Rice_Noodles.jpg
+    大小: 293.22 KB → 273.91 KB
+    压缩率: 6.6%
+
+  static/images/Casserole_Dishes/Clay_Pot_Pickled_Vegetable_Fish.jpg
+    大小: 360.91 KB → 350.04 KB
+    压缩率: 3.0%
+
+  static/images/Casserole_Dishes/Clay_Pot_Salt_Baked_Chicken.jpg
+    大小: 312.58 KB → 292.27 KB
+    压缩率: 6.5%
+
+  static/images/Casserole_Dishes/Clay_Pot_Three_Delicacies_Tofu.jpg
+    大小: 323.42 KB → 300.49 KB
+    压缩率: 7.1%
+
+  static/images/Casserole_Dishes/Clay_Pot_Tofu_Skin.jpg
+    大小: 277.92 KB → 247.24 KB
+    压缩率: 11.0%
+
+  static/images/Casserole_Dishes/Clay_Pot_Tomato_Rice_Noodles.jpg
+    大小: 438.72 KB → 423.87 KB
+    压缩率: 3.4%
+
+  static/images/Casserole_Dishes/Pickled_Vegetable_Pig_Intestines_Hotpot.jpg
+    大小: 378.01 KB → 385.88 KB
+    压缩率: -2.1%
+
+  static/images/Celery_Stir_Fried_Tofu.jpg
+    大小: 5.01 KB → 3.78 KB
+    压缩率: 24.6%
+
+  static/images/Celery_Tofu_Stir_Fried_Shredded_Pork.jpg
+    大小: 7.44 KB → 6.01 KB
+    压缩率: 19.1%
+
+  static/images/Chicken_Blood_Soup.png
+    大小: 11.46 KB → 3.02 KB
+    压缩率: 73.6%
+
+  static/images/Chicken_Broth_Soup_Buns.png
+    大小: 18.59 KB → 4.59 KB
+    压缩率: 75.3%
+
+  static/images/Chicken_Feet_Steamed_Beans.png
+    大小: 19.41 KB → 5.89 KB
+    压缩率: 69.6%
+
+  static/images/Chicken_Juice_Spicy_Fish.png
+    大小: 19.65 KB → 6.52 KB
+    压缩率: 66.8%
+
+  static/images/Chicken_Onion_Rings.png
+    大小: 17.90 KB → 4.15 KB
+    压缩率: 76.8%
+
+  static/images/Chicken_Soup_Baby_Cabbage.jpg
+    大小: 4.61 KB → 3.26 KB
+    压缩率: 29.1%
+
+  static/images/Chinese_Toon_Scrambled_Eggs.jpg
+    大小: 7.32 KB → 6.36 KB
+    压缩率: 13.1%
+
+  static/images/Chopped_Chili_Fish_Head.png
+    大小: 48.00 KB → 4.69 KB
+    压缩率: 90.2%
+
+  static/images/Chopped_Chili_Fish_Head_(Grass_Carp_Head_Version).png
+    大小: 16.88 KB → 4.72 KB
+    压缩率: 72.0%
+
+  static/images/Chopped_Chili_Mushroom_Scrambled_Eggs.jpg
+    大小: 7.00 KB → 5.61 KB
+    压缩率: 19.9%
+
+  static/images/Clay_Pot_Beef_Offal_Hotpot.png
+    大小: 21.35 KB → 7.96 KB
+    压缩率: 62.7%
+
+  static/images/Clay_Pot_Garlic_Vermicelli_Shrimp.png
+    大小: 18.84 KB → 5.95 KB
+    压缩率: 68.4%
+
+  static/images/Clay_Pot_Original_Chicken_Soup_Rice_Noodles.png
+    大小: 16.21 KB → 4.39 KB
+    压缩率: 72.9%
+
+  static/images/Clay_Pot_Papaya.png
+    大小: 13.66 KB → 3.77 KB
+    压缩率: 72.4%
+
+  static/images/Clay_Pot_Pickled_Chili_Chicken_Nuggets_Rice_Noodles.png
+    大小: 14.82 KB → 4.74 KB
+    压缩率: 68.0%
+
+  static/images/Clay_Pot_Pickled_Vegetable_Fish.png
+    大小: 16.81 KB → 4.62 KB
+    压缩率: 72.5%
+
+  static/images/Clay_Pot_Salt_Baked_Chicken.png
+    大小: 23.76 KB → 5.22 KB
+    压缩率: 78.0%
+
+  static/images/Clay_Pot_Three_Delicacies_Tofu.png
+    大小: 14.22 KB → 3.55 KB
+    压缩率: 75.0%
+
+  static/images/Clay_Pot_Tofu_Skin.png
+    大小: 17.16 KB → 3.56 KB
+    压缩率: 79.3%
+
+  static/images/Clay_Pot_Tomato_Rice_Noodles.png
+    大小: 18.07 KB → 5.65 KB
+    压缩率: 68.7%
+
+  static/images/Claypot_ShepherdS_Purse_Fresh_Meat_Wonton.png
+    大小: 16.42 KB → 5.65 KB
+    压缩率: 65.6%
+
+  static/images/Coarse_Grain_Box.png
+    大小: 12.18 KB → 3.21 KB
+    压缩率: 73.6%
+
+  static/images/Cold_Dishes/Cold_Mixed_Lettuce_Shreds.jpg
+    大小: 335.99 KB → 316.06 KB
+    压缩率: 5.9%
+
+  static/images/Cold_Dishes/Lemon_Phoenix_Claws.jpg
+    大小: 303.00 KB → 260.69 KB
+    压缩率: 14.0%
+
+  static/images/Cold_Dishes/Mouth_Watering_Chicken.jpg
+    大小: 288.95 KB → 288.68 KB
+    压缩率: 0.1%
+
+  static/images/Cold_Dishes/Western_Celery_Peanuts.jpg
+    大小: 286.30 KB → 275.40 KB
+    压缩率: 3.8%
+
+  static/images/Cold_Mixed_Lettuce_Shreds.jpg
+    大小: 3.79 KB → 2.50 KB
+    压缩率: 34.1%
+
+  static/images/Crispy_Beef_Pancake.png
+    大小: 13.25 KB → 3.46 KB
+    压缩率: 73.9%
+
+  static/images/Crispy_Chicken_Nuggets.png
+    大小: 19.25 KB → 4.30 KB
+    压缩率: 77.7%
+
+  static/images/Crispy_Potato_Patties.png
+    大小: 14.81 KB → 2.99 KB
+    压缩率: 79.8%
+
+  static/images/Crispy_Wood_Ear_Mushrooms.jpg
+    大小: 6.19 KB → 5.18 KB
+    压缩率: 16.3%
+
+  static/images/Crunchy_Rapeseed_with_Cabbage.jpg
+    大小: 4.02 KB → 2.97 KB
+    压缩率: 26.0%
+
+  static/images/Dried_Mustard_Greens_with_Chicken_Feet_Wings.jpg
+    大小: 6.61 KB → 5.53 KB
+    压缩率: 16.3%
+
+  static/images/Edamame_Braised_Free_Range_Chicken.png
+    大小: 16.17 KB → 4.50 KB
+    压缩率: 72.2%
+
+  static/images/Egg_Pancake.png
+    大小: 14.54 KB → 2.67 KB
+    压缩率: 81.6%
+
+  static/images/Farmhouse_Steamed_Egg.jpg
+    大小: 10.39 KB → 6.48 KB
+    压缩率: 37.6%
+
+  static/images/Farmhouse_Stir_Fried_Pork_(Egg_White_Version).png
+    大小: 18.55 KB → 5.91 KB
+    压缩率: 68.1%
+
+  static/images/Farmhouse_Stir_Fried_Pork_(Wood_Ear_Version).png
+    大小: 14.82 KB → 6.11 KB
+    压缩率: 58.8%
+
+  static/images/Feixi_Old_Hen_Soup.png
+    大小: 16.28 KB → 4.09 KB
+    压缩率: 74.9%
+
+  static/images/Feixi_Old_Hen_Soup_Noodles.png
+    大小: 17.09 KB → 4.81 KB
+    压缩率: 71.9%
+
+  static/images/Fertilized_Duck_Egg.jpg
+    大小: 25.06 KB → 10.59 KB
+    压缩率: 57.8%
+
+  static/images/Fish_Flavored_Shredded_Pork.png
+    大小: 15.34 KB → 4.91 KB
+    压缩率: 68.0%
+
+  static/images/Fish_Flavored_Shredded_Pork_Rice_Bowl.jpg
+    大小: 41.66 KB → 27.35 KB
+    压缩率: 34.3%
+
+  static/images/Flower_Roll.png
+    大小: 14.87 KB → 2.84 KB
+    压缩率: 80.9%
+
+  static/images/Fresh_Cooked_Bean_Porridge.png
+    大小: 7.94 KB → 2.59 KB
+    压缩率: 67.4%
+
+  static/images/Fresh_Fried_Youtiao.png
+    大小: 15.05 KB → 2.85 KB
+    压缩率: 81.1%
+
+  static/images/Fried_Chicken_Leg_with_Vegetables_Noodles.png
+    大小: 19.58 KB → 7.20 KB
+    压缩率: 63.2%
+
+  static/images/Fried_Chicken_Legs.png
+    大小: 14.04 KB → 2.79 KB
+    压缩率: 80.1%
+
+  static/images/Fried_Chicken_Steak.png
+    大小: 13.85 KB → 3.39 KB
+    压缩率: 75.5%
+
+  static/images/Fried_Items/Bangbang_Shrimp.jpg
+    大小: 276.48 KB → 250.95 KB
+    压缩率: 9.2%
+
+  static/images/Fried_Items/Chicken_Onion_Rings.jpg
+    大小: 264.34 KB → 227.27 KB
+    压缩率: 14.0%
+
+  static/images/Fried_Items/Crispy_Chicken_Nuggets.jpg
+    大小: 249.97 KB → 220.33 KB
+    压缩率: 11.9%
+
+  static/images/Fried_Items/Crispy_Potato_Patties.jpg
+    大小: 214.49 KB → 174.07 KB
+    压缩率: 18.8%
+
+  static/images/Fried_Items/Fried_Chicken_Legs.jpg
+    大小: 212.56 KB → 154.84 KB
+    压缩率: 27.2%
+
+  static/images/Fried_Items/Fried_Chicken_Steak.jpg
+    大小: 267.83 KB → 236.76 KB
+    压缩率: 11.6%
+
+  static/images/Fried_Items/Heart_Shaped_Chicken_Steak.jpg
+    大小: 223.65 KB → 190.06 KB
+    压缩率: 15.0%
+
+  static/images/Fried_Items/HiHi_Bucket_(Fried_Food).jpg
+    大小: 313.79 KB → 290.45 KB
+    压缩率: 7.4%
+
+  static/images/Fried_Items/Pistol_Big_Chicken_Legs.jpg
+    大小: 260.07 KB → 236.35 KB
+    压缩率: 9.1%
+
+  static/images/Fried_Items/Proud_Pepper_Style_Chicken_Wing_Tips.jpg
+    大小: 219.92 KB → 194.26 KB
+    压缩率: 11.7%
+
+  static/images/Fried_Items/Raw_Fried_Big_Chicken_Legs.jpg
+    大小: 273.48 KB → 200.24 KB
+    压缩率: 26.8%
+
+  static/images/Fried_Items/Taro_Sweet_Potato_Balls.jpg
+    大小: 262.93 KB → 226.65 KB
+    压缩率: 13.8%
+
+  static/images/Garlic_Baby_Cabbage.jpg
+    大小: 3.89 KB → 2.77 KB
+    压缩率: 28.8%
+
+  static/images/Garlic_Spinach.jpg
+    大小: 4.25 KB → 3.37 KB
+    压缩率: 20.8%
+
+  static/images/Garlic_Vermicelli_Shrimp.png
+    大小: 15.32 KB → 3.01 KB
+    压缩率: 80.4%
+
+  static/images/Golden_Soup_Pickled_Vegetable_Fish.png
+    大小: 16.51 KB → 4.88 KB
+    压缩率: 70.5%
+
+  static/images/Golden_Soup_Pickled_Vegetable_Fish_(Large).png
+    大小: 19.24 KB → 6.77 KB
+    压缩率: 64.8%
+
+  static/images/GrandmaS_Vegetable_Scrambled_Eggs.png
+    大小: 19.21 KB → 6.48 KB
+    压缩率: 66.3%
+
+  static/images/Green_Pepper_Stir_Fried_Bean_Sprouts.jpg
+    大小: 4.12 KB → 2.98 KB
+    压缩率: 27.6%
+
+  static/images/Green_Pepper_with_Eggs.jpg
+    大小: 3.95 KB → 2.92 KB
+    压缩率: 26.1%
+
+  static/images/Grilled_Items/Grilled_Sausage.jpg
+    大小: 164.36 KB → 131.73 KB
+    压缩率: 19.9%
+
+  static/images/Grilled_Sausage.png
+    大小: 11.01 KB → 2.47 KB
+    压缩率: 77.5%
+
+  static/images/Guizhou_Style_Spicy_Chicken.png
+    大小: 16.59 KB → 5.15 KB
+    压缩率: 69.0%
+
+  static/images/Handmade_Shaomai.png
+    大小: 16.72 KB → 3.47 KB
+    压缩率: 79.2%
+
+  static/images/Handmade_Spring_Rolls.png
+    大小: 11.81 KB → 3.22 KB
+    压缩率: 72.7%
+
+  static/images/Heart_Shaped_Chicken_Steak.png
+    大小: 27.33 KB → 6.21 KB
+    压缩率: 77.3%
+
+  static/images/HiHi_Bucket_(Fried_Food).png
+    大小: 13.64 KB → 3.29 KB
+    压缩率: 75.9%
+
+  static/images/HiHi_Bucket_(Spicy_Oil_Skewers).png
+    大小: 11.63 KB → 3.78 KB
+    压缩率: 67.5%
+
+  static/images/HiHi_Pot_(Pickled_Pepper_Chicken_Nuggets_Vermicelli).png
+    大小: 18.39 KB → 7.73 KB
+    压缩率: 57.9%
+
+  static/images/HiHi_Pot_(Pickled_Vegetable_Fish_Vermicelli).png
+    大小: 18.48 KB → 6.61 KB
+    压缩率: 64.2%
+
+  static/images/HiHi_Pot_(Tomato_Fatty_Beef_Hot_Pot).png
+    大小: 17.71 KB → 6.81 KB
+    压缩率: 61.5%
+
+  static/images/HiHi_Pot_(Vegetable_Hot_Pot).png
+    大小: 17.87 KB → 8.37 KB
+    压缩率: 53.2%
+
+  static/images/Home_Style_Potato_Slices.jpg
+    大小: 4.50 KB → 3.04 KB
+    压缩率: 32.5%
+
+  static/images/Home_Style_Stir_Fry.jpg
+    大小: 6.22 KB → 5.09 KB
+    压缩率: 18.1%
+
+  static/images/Honey_Glazed_Pumpkin.jpg
+    大小: 3.54 KB → 2.20 KB
+    压缩率: 37.8%
+
+  static/images/Hot_Milk_Tea.png
+    大小: 10.17 KB → 5.93 KB
+    压缩率: 41.7%
+
+  static/images/Hot_Pot/Golden_Soup_Pickled_Vegetable_Fish.jpg
+    大小: 326.45 KB → 282.57 KB
+    压缩率: 13.4%
+
+  static/images/Hot_Pot/Golden_Soup_Pickled_Vegetable_Fish_(Large).jpg
+    大小: 394.79 KB → 390.11 KB
+    压缩率: 1.2%
+
+  static/images/Hot_Pot/HiHi_Pot_(Pickled_Pepper_Chicken_Nuggets_Vermicelli).jpg
+    大小: 376.31 KB → 360.16 KB
+    压缩率: 4.3%
+
+  static/images/Hot_Pot/HiHi_Pot_(Pickled_Vegetable_Fish_Vermicelli).jpg
+    大小: 344.91 KB → 325.17 KB
+    压缩率: 5.7%
+
+  static/images/Hot_Pot/HiHi_Pot_(Tomato_Fatty_Beef_Hot_Pot).jpg
+    大小: 334.82 KB → 307.66 KB
+    压缩率: 8.1%
+
+  static/images/Hot_Pot/HiHi_Pot_(Vegetable_Hot_Pot).jpg
+    大小: 233.34 KB → 214.57 KB
+    压缩率: 8.0%
+
+  static/images/Hot_Pot/Spicy_Roast_Duck_Hotpot.jpg
+    大小: 433.34 KB → 404.80 KB
+    压缩率: 6.6%
+
+  static/images/Hot_and_Sour_Kelp_Shreds.jpg
+    大小: 4.99 KB → 4.01 KB
+    压缩率: 19.6%
+
+  static/images/Hot_and_Sour_Shredded_Potato.jpg
+    大小: 5.46 KB → 4.08 KB
+    压缩率: 25.4%
+
+  static/images/Kaffir_Lime_Lemon_Tea.png
+    大小: 13.07 KB → 4.09 KB
+    压缩率: 68.7%
+
+  static/images/Kung_Pao_Chicken.png
+    大小: 14.67 KB → 4.77 KB
+    压缩率: 67.5%
+
+  static/images/Large_Plate_Pig_Intestine_Chicken_Handmade_Noodles.png
+    大小: 20.18 KB → 7.11 KB
+    压缩率: 64.8%
+
+  static/images/Lemon_Phoenix_Claws.jpg
+    大小: 5.20 KB → 3.43 KB
+    压缩率: 34.0%
+
+  static/images/Lettuce_Shreds_Scrambled_Eggs.jpg
+    大小: 4.13 KB → 2.91 KB
+    压缩率: 29.4%
+
+  static/images/Light_Stir_Fried_Broccoli.jpg
+    大小: 6.11 KB → 4.95 KB
+    压缩率: 19.0%
+
+  static/images/Light_Stir_Fried_Chinese_Broccoli.jpg
+    大小: 5.83 KB → 4.65 KB
+    压缩率: 20.1%
+
+  static/images/Light_Stir_Fried_Greens.jpg
+    大小: 6.10 KB → 4.89 KB
+    压缩率: 19.8%
+
+  static/images/Light_Stir_Fried_Lettuce.jpg
+    大小: 6.03 KB → 5.10 KB
+    压缩率: 15.3%
+
+  static/images/Light_Stir_Fried_Lettuce_Slices.jpg
+    大小: 3.60 KB → 2.31 KB
+    压缩率: 35.7%
+
+  static/images/Light_Stir_Fried_Spring_Vegetables.jpg
+    大小: 4.54 KB → 3.60 KB
+    压缩率: 20.6%
+
+  static/images/Mapo_Tofu.jpg
+    大小: 9.81 KB → 8.64 KB
+    压缩率: 11.9%
+
+  static/images/Marinated_Dishes/Braised_Chicken_Feet.jpg
+    大小: 336.44 KB → 313.82 KB
+    压缩率: 6.7%
+
+  static/images/Marinated_Dishes/Braised_Chicken_Legs.jpg
+    大小: 324.93 KB → 302.25 KB
+    压缩率: 7.0%
+
+  static/images/Marinated_Dishes/Braised_Chicken_Wings.jpg
+    大小: 281.74 KB → 254.24 KB
+    压缩率: 9.8%
+
+  static/images/Marinated_Dishes/Braised_Spare_Ribs.jpg
+    大小: 253.60 KB → 220.62 KB
+    压缩率: 13.0%
+
+  static/images/Marinated_Dishes/Braised_Tofu_Skin.jpg
+    大小: 265.35 KB → 234.49 KB
+    压缩率: 11.6%
+
+  static/images/Marinated_Dishes/HiHi_Bucket_(Spicy_Oil_Skewers).jpg
+    大小: 278.92 KB → 254.60 KB
+    压缩率: 8.7%
+
+  static/images/Milk_Yolk_Chicken_Buns.png
+    大小: 17.20 KB → 4.84 KB
+    压缩率: 71.9%
+
+  static/images/Millet_Pumpkin_Porridge.png
+    大小: 18.50 KB → 3.76 KB
+    压缩率: 79.7%
+
+  static/images/Minced_Meat_Steamed_Egg.png
+    大小: 18.18 KB → 4.31 KB
+    压缩率: 76.3%
+
+  static/images/Mixed_Egg_Fried_Rice.png
+    大小: 21.35 KB → 6.22 KB
+    压缩率: 70.9%
+
+  static/images/Mixed_Grain_Rice.png
+    大小: 20.15 KB → 6.00 KB
+    压缩率: 70.2%
+
+  static/images/Mouth_Watering_Chicken.png
+    大小: 13.60 KB → 4.15 KB
+    压缩率: 69.5%
+
+  static/images/Old_Chicken_Rice_Noodles.png
+    大小: 15.73 KB → 4.51 KB
+    压缩率: 71.4%
+
+  static/images/Original_Soy_Milk.png
+    大小: 9.61 KB → 0.90 KB
+    压缩率: 90.6%
+
+  static/images/Original_Soy_Milk_(Fresh_Ground).png
+    大小: 9.33 KB → 0.95 KB
+    压缩率: 89.8%
+
+  static/images/Orleans_Chicken_Wings.jpg
+    大小: 4.18 KB → 3.37 KB
+    压缩率: 19.4%
+
+  static/images/Orleans_Chicken_Wings_(Kids_Meal_Version).jpg
+    大小: 4.18 KB → 3.37 KB
+    压缩率: 19.4%
+
+  static/images/Pastry_Radish_Shreds_Pie.png
+    大小: 17.19 KB → 3.12 KB
+    压缩率: 81.9%
+
+  static/images/Pickled_Vegetable_Pig_Intestines_Hotpot.png
+    大小: 24.22 KB → 6.26 KB
+    压缩率: 74.2%
+
+  static/images/Pig_Intestine_Chicken.jpg
+    大小: 10.12 KB → 8.88 KB
+    压缩率: 12.2%
+
+  static/images/Pineapple_Sweet_and_Sour_Pork.png
+    大小: 14.14 KB → 3.18 KB
+    压缩率: 77.5%
+
+  static/images/Pineapple_Sweet_and_Sour_Pork_with_Seasonal_Vegetables_Rice.jpg
+    大小: 4.38 KB → 2.83 KB
+    压缩率: 35.4%
+
+  static/images/Pistol_Big_Chicken_Legs.jpg
+    大小: 52.33 KB → 48.78 KB
+    压缩率: 6.8%
+
+  static/images/Plain_Noodles.png
+    大小: 19.13 KB → 5.51 KB
+    压缩率: 71.2%
+
+  static/images/Pork_Chop_Noodles.png
+    大小: 18.27 KB → 6.96 KB
+    压缩率: 61.9%
+
+  static/images/Potato_Beef_Brisket.png
+    大小: 15.94 KB → 5.26 KB
+    压缩率: 67.0%
+
+  static/images/Preserved_Vegetable_with_Pork.png
+    大小: 14.27 KB → 4.35 KB
+    压缩率: 69.5%
+
+  static/images/Proud_Pepper_Style_Chicken_Wing_Tips.png
+    大小: 12.84 KB → 3.04 KB
+    压缩率: 76.3%
+
+  static/images/Raw_Fried_Big_Chicken_Legs.png
+    大小: 19.16 KB → 5.94 KB
+    压缩率: 69.0%
+
+  static/images/Red_Bean_Paste_Yuanxiao.png
+    大小: 18.06 KB → 4.07 KB
+    压缩率: 77.4%
+
+  static/images/Rice.png
+    大小: 17.51 KB → 3.58 KB
+    压缩率: 79.6%
+
+  static/images/Rice_Ball.png
+    大小: 8.05 KB → 1.65 KB
+    压缩率: 79.6%
+
+  static/images/Rice_Ball_2.png
+    大小: 8.78 KB → 1.78 KB
+    压缩率: 79.8%
+
+  static/images/Rice_Ball_3.png
+    大小: 7.42 KB → 1.12 KB
+    压缩率: 84.8%
+
+  static/images/Rice_Cake.png
+    大小: 18.07 KB → 4.41 KB
+    压缩率: 75.6%
+
+  static/images/Rich_Whole_Chicken_Soup_Noodles.png
+    大小: 18.58 KB → 5.06 KB
+    压缩率: 72.8%
+
+  static/images/Sauce_Chili_Garlic_Fish_Fillets.png
+    大小: 15.76 KB → 4.12 KB
+    压缩率: 73.9%
+
+  static/images/Sauce_Steamed_Dried_Tofu.png
+    大小: 15.51 KB → 3.87 KB
+    压缩率: 75.1%
+
+  static/images/Sauce_Steamed_Tofu.jpg
+    大小: 5.84 KB → 4.57 KB
+    压缩率: 21.8%
+
+  static/images/Saucy_Small_River_Shrimp.jpg
+    大小: 5.86 KB → 4.84 KB
+    压缩率: 17.4%
+
+  static/images/Sausage_Steamed_Beans.png
+    大小: 18.42 KB → 5.11 KB
+    压缩率: 72.3%
+
+  static/images/Scallion_Oil_Chicken.png
+    大小: 13.71 KB → 3.31 KB
+    压缩率: 75.9%
+
+  static/images/Scallion_Oil_Chinese_Broccoli.jpg
+    大小: 5.77 KB → 5.04 KB
+    压缩率: 12.6%
+
+  static/images/Scallion_Oil_Mixed_Noodles.png
+    大小: 14.82 KB → 4.64 KB
+    压缩率: 68.7%
+
+  static/images/Scallion_Oil_Rapeseed.png
+    大小: 17.49 KB → 5.29 KB
+    压缩率: 69.8%
+
+  static/images/Secret_Sauce_Braised_Pork_Rice.png
+    大小: 20.20 KB → 9.00 KB
+    压缩率: 55.5%
+
+  static/images/ShepherdS_Purse_Fresh_Meat_Dumplings.png
+    大小: 18.11 KB → 5.24 KB
+    压缩率: 71.1%
+
+  static/images/Shiitake_Mushroom_Chicken_Soup_Noodles.png
+    大小: 12.41 KB → 3.62 KB
+    压缩率: 70.8%
+
+  static/images/Shrimp_Steamed_Egg.jpg
+    大小: 4.09 KB → 2.57 KB
+    压缩率: 37.2%
+
+  static/images/Snowy_Vegetable_Shredded_Pork_Noodles.png
+    大小: 17.05 KB → 6.40 KB
+    压缩率: 62.5%
+
+  static/images/Song_Gao_(Steamed_Cake).png
+    大小: 16.73 KB → 4.90 KB
+    压缩率: 70.7%
+
+  static/images/Soup/Bamboo_Pith_Velvet_Foot_Mushroom_Chicken_Soup.jpg
+    大小: 340.16 KB → 321.26 KB
+    压缩率: 5.6%
+
+  static/images/Soup/Feixi_Old_Hen_Soup_(Single_Serving).jpg
+    大小: 282.49 KB → 262.42 KB
+    压缩率: 7.1%
+
+  static/images/Soup/Old_Chicken_Soup.jpg
+    大小: 245.66 KB → 220.35 KB
+    压缩率: 10.3%
+
+  static/images/Special_Chicken_Soup_Wonton.png
+    大小: 17.20 KB → 4.57 KB
+    压缩率: 73.4%
+
+  static/images/Special_Hot_Dry_Noodles.png
+    大小: 23.46 KB → 9.60 KB
+    压缩率: 59.1%
+
+  static/images/Spicy_Beef_Noodles.png
+    大小: 15.95 KB → 6.05 KB
+    压缩率: 62.1%
+
+  static/images/Spicy_Blood_Curd.png
+    大小: 13.16 KB → 6.99 KB
+    压缩率: 46.8%
+
+  static/images/Spicy_Chicken_Dice_Mixed_Noodles.png
+    大小: 16.08 KB → 4.94 KB
+    压缩率: 69.3%
+
+  static/images/Spicy_Chicken_Offal.jpg
+    大小: 6.95 KB → 5.93 KB
+    压缩率: 14.7%
+
+  static/images/Spicy_Chicken_Pieces.jpg
+    大小: 6.83 KB → 5.52 KB
+    压缩率: 19.2%
+
+  static/images/Spicy_Roast_Duck_Hotpot.png
+    大小: 20.85 KB → 8.24 KB
+    压缩率: 60.5%
+
+  static/images/Spinach_Egg_Skin_Shreds.jpg
+    大小: 6.90 KB → 6.07 KB
+    压缩率: 12.0%
+
+  static/images/Staples/Claypot_ShepherdS_Purse_Fresh_Meat_Wonton.jpg
+    大小: 294.42 KB → 267.73 KB
+    压缩率: 9.1%
+
+  static/images/Staples/Feixi_Old_Hen_Soup_Noodles.jpg
+    大小: 343.09 KB → 325.45 KB
+    压缩率: 5.1%
+
+  static/images/Staples/Fried_Chicken_Leg_with_Vegetables_Noodles.jpg
+    大小: 318.15 KB → 301.02 KB
+    压缩率: 5.4%
+
+  static/images/Staples/Large_Plate_Pig_Intestine_Chicken_Handmade_Noodles.jpg
+    大小: 449.56 KB → 473.18 KB
+    压缩率: -5.3%
+
+  static/images/Staples/Mixed_Grain_Rice.jpg
+    大小: 286.81 KB → 240.92 KB
+    压缩率: 16.0%
+
+  static/images/Staples/Old_Chicken_Rice_Noodles.jpg
+    大小: 381.53 KB → 371.59 KB
+    压缩率: 2.6%
+
+  static/images/Staples/Plain_Noodles.jpg
+    大小: 306.91 KB → 267.80 KB
+    压缩率: 12.7%
+
+  static/images/Staples/Pork_Chop_Noodles.jpg
+    大小: 341.76 KB → 330.02 KB
+    压缩率: 3.4%
+
+  static/images/Staples/Rice.jpg
+    大小: 260.98 KB → 202.39 KB
+    压缩率: 22.5%
+
+  static/images/Staples/Rich_Whole_Chicken_Soup_Noodles.jpg
+    大小: 343.80 KB → 333.29 KB
+    压缩率: 3.1%
+
+  static/images/Staples/Shiitake_Mushroom_Chicken_Soup_Noodles.jpg
+    大小: 278.27 KB → 253.09 KB
+    压缩率: 9.0%
+
+  static/images/Staples/Snowy_Vegetable_Shredded_Pork_Noodles.jpg
+    大小: 385.37 KB → 372.40 KB
+    压缩率: 3.4%
+
+  static/images/Staples/Special_Chicken_Soup_Wonton.jpg
+    大小: 288.87 KB → 275.66 KB
+    压缩率: 4.6%
+
+  static/images/Staples/Spicy_Beef_Noodles.jpg
+    大小: 323.25 KB → 309.52 KB
+    压缩率: 4.2%
+
+  static/images/Staples/Spicy_Chicken_Dice_Mixed_Noodles.jpg
+    大小: 393.54 KB → 379.49 KB
+    压缩率: 3.6%
+
+  static/images/Staples/Tomato_Egg_Noodles.jpg
+    大小: 322.73 KB → 303.46 KB
+    压缩率: 6.0%
+
+  static/images/Staples/Triple_Beef_Brisket_Noodles.jpg
+    大小: 367.12 KB → 363.12 KB
+    压缩率: 1.1%
+
+  static/images/Steamed_Bun.png
+    大小: 6.17 KB → 1.20 KB
+    压缩率: 80.5%
+
+  static/images/Steamed_Bun_2.png
+    大小: 6.82 KB → 1.70 KB
+    压缩率: 75.1%
+
+  static/images/Steamed_Bun_3.png
+    大小: 5.51 KB → 1.27 KB
+    压缩率: 77.0%
+
+  static/images/Steamed_Bun_4.png
+    大小: 5.61 KB → 2.21 KB
+    压缩率: 60.6%
+
+  static/images/Steamed_Bun_5.png
+    大小: 5.81 KB → 2.09 KB
+    压缩率: 64.0%
+
+  static/images/Steamed_Dishes/Bamboo_Shoots_Steamed_Chicken_Wings.jpg
+    大小: 295.38 KB → 272.54 KB
+    压缩率: 7.7%
+
+  static/images/Steamed_Dishes/Carrot_Beef.jpg
+    大小: 274.23 KB → 255.23 KB
+    压缩率: 6.9%
+
+  static/images/Steamed_Dishes/Chicken_Feet_Steamed_Beans.jpg
+    大小: 328.72 KB → 314.77 KB
+    压缩率: 4.2%
+
+  static/images/Steamed_Dishes/Chicken_Juice_Spicy_Fish.jpg
+    大小: 242.38 KB → 219.79 KB
+    压缩率: 9.3%
+
+  static/images/Steamed_Dishes/Chopped_Chili_Fish_Head.jpg
+    大小: 320.07 KB → 298.54 KB
+    压缩率: 6.7%
+
+  static/images/Steamed_Dishes/Coarse_Grain_Box.jpg
+    大小: 259.17 KB → 195.66 KB
+    压缩率: 24.5%
+
+  static/images/Steamed_Dishes/Farmhouse_Steamed_Egg.jpg
+    大小: 282.41 KB → 254.22 KB
+    压缩率: 10.0%
+
+  static/images/Steamed_Dishes/Fertilized_Duck_Egg.jpg
+    大小: 247.03 KB → 162.26 KB
+    压缩率: 34.3%
+
+  static/images/Steamed_Dishes/Garlic_Baby_Cabbage.jpg
+    大小: 247.86 KB → 198.13 KB
+    压缩率: 20.1%
+
+  static/images/Steamed_Dishes/Garlic_Vermicelli_Shrimp.jpg
+    大小: 298.18 KB → 285.22 KB
+    压缩率: 4.3%
+
+  static/images/Steamed_Dishes/Honey_Glazed_Pumpkin.jpg
+    大小: 285.82 KB → 247.85 KB
+    压缩率: 13.3%
+
+  static/images/Steamed_Dishes/Minced_Meat_Steamed_Egg.jpg
+    大小: 319.05 KB → 300.63 KB
+    压缩率: 5.8%
+
+  static/images/Steamed_Dishes/Orleans_Chicken_Wings.jpg
+    大小: 336.95 KB → 305.63 KB
+    压缩率: 9.3%
+
+  static/images/Steamed_Dishes/Preserved_Vegetable_with_Pork.jpg
+    大小: 316.23 KB → 281.07 KB
+    压缩率: 11.1%
+
+  static/images/Steamed_Dishes/Sauce_Chili_Garlic_Fish_Fillets.jpg
+    大小: 347.14 KB → 330.26 KB
+    压缩率: 4.9%
+
+  static/images/Steamed_Dishes/Sauce_Steamed_Dried_Tofu.jpg
+    大小: 279.35 KB → 225.73 KB
+    压缩率: 19.2%
+
+  static/images/Steamed_Dishes/Sauce_Steamed_Tofu.jpg
+    大小: 266.75 KB → 215.72 KB
+    压缩率: 19.1%
+
+  static/images/Steamed_Dishes/Saucy_Small_River_Shrimp.jpg
+    大小: 356.11 KB → 339.58 KB
+    压缩率: 4.6%
+
+  static/images/Steamed_Dishes/Sausage_Steamed_Beans.jpg
+    大小: 266.79 KB → 237.41 KB
+    压缩率: 11.0%
+
+  static/images/Steamed_Dishes/Scallion_Oil_Chicken.jpg
+    大小: 333.25 KB → 310.86 KB
+    压缩率: 6.7%
+
+  static/images/Steamed_Dishes/Secret_Sauce_Braised_Pork_Rice.jpg
+    大小: 283.98 KB → 260.42 KB
+    压缩率: 8.3%
+
+  static/images/Steamed_Dishes/Shrimp_Steamed_Egg.jpg
+    大小: 266.31 KB → 246.27 KB
+    压缩率: 7.5%
+
+  static/images/Steamed_Dishes/Song_Gao_(Steamed_Cake).jpg
+    大小: 249.88 KB → 188.88 KB
+    压缩率: 24.4%
+
+  static/images/Steamed_Dishes/Spicy_Blood_Curd.jpg
+    大小: 264.96 KB → 228.08 KB
+    压缩率: 13.9%
+
+  static/images/Steamed_Dishes/Steamed_Pork_with_Rice_Flour.jpg
+    大小: 268.03 KB → 245.49 KB
+    压缩率: 8.4%
+
+  static/images/Steamed_Dishes/Taro_Steamed_Spare_Ribs.jpg
+    大小: 397.94 KB → 390.31 KB
+    压缩率: 1.9%
+
+  static/images/Steamed_Dishes/Three_Color_Shrimp.jpg
+    大小: 302.45 KB → 286.14 KB
+    压缩率: 5.4%
+
+  static/images/Steamed_Dishes/White_Cut_Chicken.jpg
+    大小: 358.33 KB → 343.62 KB
+    压缩率: 4.1%
+
+  static/images/Steamed_Dishes/Wind_Dried_Beef_Steamed_Tofu.jpg
+    大小: 314.84 KB → 298.64 KB
+    压缩率: 5.1%
+
+  static/images/Steamed_Pork_with_Rice_Flour.png
+    大小: 17.29 KB → 5.03 KB
+    压缩率: 70.9%
+
+  static/images/Steamed_Stuffed_Bun.png
+    大小: 11.80 KB → 1.21 KB
+    压缩率: 89.7%
+
+  static/images/Stewed_Dishes/Braised_Fish_Fillet.jpg
+    大小: 291.83 KB → 272.37 KB
+    压缩率: 6.7%
+
+  static/images/Stewed_Dishes/Cabbage_Stewed_Tofu.jpg
+    大小: 291.17 KB → 267.33 KB
+    压缩率: 8.2%
+
+  static/images/Stewed_Dishes/Chicken_Blood_Soup.jpg
+    大小: 262.35 KB → 231.60 KB
+    压缩率: 11.7%
+
+  static/images/Stewed_Dishes/Dried_Mustard_Greens_with_Chicken_Feet_Wings.jpg
+    大小: 277.96 KB → 253.70 KB
+    压缩率: 8.7%
+
+  static/images/Stewed_Dishes/Mapo_Tofu.jpg
+    大小: 249.09 KB → 223.82 KB
+    压缩率: 10.1%
+
+  static/images/Stewed_Dishes/Potato_Beef_Brisket.jpg
+    大小: 337.29 KB → 293.63 KB
+    压缩率: 12.9%
+
+  static/images/Stewed_Dishes/Spicy_Chicken_Offal.jpg
+    大小: 329.83 KB → 307.76 KB
+    压缩率: 6.7%
+
+  static/images/Stir_Fried_Baby_Cabbage.jpg
+    大小: 3.72 KB → 2.75 KB
+    压缩率: 26.0%
+
+  static/images/Stir_Fried_Cauliflower.jpg
+    大小: 5.36 KB → 4.00 KB
+    压缩率: 25.2%
+
+  static/images/Stir_Fried_Chicken_Diced.jpg
+    大小: 6.54 KB → 5.32 KB
+    压缩率: 18.6%
+
+  static/images/Stir_Fried_Dishes/Bamboo_Shoots_Braised_Pork.jpg
+    大小: 305.70 KB → 273.00 KB
+    压缩率: 10.7%
+
+  static/images/Stir_Fried_Dishes/Bamboo_Shoots_Chicken_Dice_Rice_Bowl.jpg
+    大小: 318.48 KB → 293.75 KB
+    压缩率: 7.8%
+
+  static/images/Stir_Fried_Dishes/Braised_Eggplant.jpg
+    大小: 272.39 KB → 241.25 KB
+    压缩率: 11.4%
+
+  static/images/Stir_Fried_Dishes/Broad_Beans_Scrambled_Eggs.jpg
+    大小: 297.83 KB → 278.12 KB
+    压缩率: 6.6%
+
+  static/images/Stir_Fried_Dishes/Carrot_Scrambled_Eggs.jpg
+    大小: 333.32 KB → 313.54 KB
+    压缩率: 5.9%
+
+  static/images/Stir_Fried_Dishes/Carrot_Stir_Fried_Pork_Slices.jpg
+    大小: 267.24 KB → 243.88 KB
+    压缩率: 8.7%
+
+  static/images/Stir_Fried_Dishes/Carrot_Stir_Fried_Wood_Ear_Mushrooms.jpg
+    大小: 288.13 KB → 247.73 KB
+    压缩率: 14.0%
+
+  static/images/Stir_Fried_Dishes/Celery_Stir_Fried_Tofu.jpg
+    大小: 271.66 KB → 243.46 KB
+    压缩率: 10.4%
+
+  static/images/Stir_Fried_Dishes/Celery_Tofu_Stir_Fried_Shredded_Pork.jpg
+    大小: 328.88 KB → 302.93 KB
+    压缩率: 7.9%
+
+  static/images/Stir_Fried_Dishes/Chinese_Toon_Scrambled_Eggs.jpg
+    大小: 243.99 KB → 220.91 KB
+    压缩率: 9.5%
+
+  static/images/Stir_Fried_Dishes/Chopped_Chili_Mushroom_Scrambled_Eggs.jpg
+    大小: 361.59 KB → 352.66 KB
+    压缩率: 2.5%
+
+  static/images/Stir_Fried_Dishes/Crunchy_Rapeseed_with_Cabbage.jpg
+    大小: 355.22 KB → 332.23 KB
+    压缩率: 6.5%
+
+  static/images/Stir_Fried_Dishes/Edamame_Braised_Free_Range_Chicken.jpg
+    大小: 393.11 KB → 386.67 KB
+    压缩率: 1.6%
+
+  static/images/Stir_Fried_Dishes/Farmhouse_Stir_Fried_Pork_(Egg_White_Version).jpg
+    大小: 365.96 KB → 347.71 KB
+    压缩率: 5.0%
+
+  static/images/Stir_Fried_Dishes/Farmhouse_Stir_Fried_Pork_(Wood_Ear_Version).jpg
+    大小: 354.70 KB → 331.55 KB
+    压缩率: 6.5%
+
+  static/images/Stir_Fried_Dishes/Fish_Flavored_Shredded_Pork.jpg
+    大小: 286.29 KB → 264.44 KB
+    压缩率: 7.6%
+
+  static/images/Stir_Fried_Dishes/Fish_Flavored_Shredded_Pork_Rice_Bowl.jpg
+    大小: 363.98 KB → 356.98 KB
+    压缩率: 1.9%
+
+  static/images/Stir_Fried_Dishes/Garlic_Spinach.jpg
+    大小: 271.82 KB → 245.89 KB
+    压缩率: 9.5%
+
+  static/images/Stir_Fried_Dishes/GrandmaS_Vegetable_Scrambled_Eggs.jpg
+    大小: 267.48 KB → 251.37 KB
+    压缩率: 6.0%
+
+  static/images/Stir_Fried_Dishes/Green_Pepper_Stir_Fried_Bean_Sprouts.jpg
+    大小: 279.27 KB → 253.79 KB
+    压缩率: 9.1%
+
+  static/images/Stir_Fried_Dishes/Green_Pepper_with_Eggs.jpg
+    大小: 271.26 KB → 245.47 KB
+    压缩率: 9.5%
+
+  static/images/Stir_Fried_Dishes/Guizhou_Style_Spicy_Chicken.jpg
+    大小: 290.14 KB → 268.30 KB
+    压缩率: 7.5%
+
+  static/images/Stir_Fried_Dishes/Home_Style_Potato_Slices.jpg
+    大小: 251.79 KB → 232.61 KB
+    压缩率: 7.6%
+
+  static/images/Stir_Fried_Dishes/Home_Style_Stir_Fry.jpg
+    大小: 308.55 KB → 283.29 KB
+    压缩率: 8.2%
+
+  static/images/Stir_Fried_Dishes/Hot_and_Sour_Kelp_Shreds.jpg
+    大小: 240.97 KB → 218.14 KB
+    压缩率: 9.5%
+
+  static/images/Stir_Fried_Dishes/Hot_and_Sour_Shredded_Potato.jpg
+    大小: 304.55 KB → 276.90 KB
+    压缩率: 9.1%
+
+  static/images/Stir_Fried_Dishes/Kung_Pao_Chicken.jpg
+    大小: 286.01 KB → 254.58 KB
+    压缩率: 11.0%
+
+  static/images/Stir_Fried_Dishes/Lettuce_Shreds_Scrambled_Eggs.jpg
+    大小: 290.27 KB → 267.90 KB
+    压缩率: 7.7%
+
+  static/images/Stir_Fried_Dishes/Light_Stir_Fried_Broccoli.jpg
+    大小: 264.67 KB → 229.01 KB
+    压缩率: 13.5%
+
+  static/images/Stir_Fried_Dishes/Light_Stir_Fried_Chinese_Broccoli.jpg
+    大小: 294.38 KB → 266.99 KB
+    压缩率: 9.3%
+
+  static/images/Stir_Fried_Dishes/Light_Stir_Fried_Greens.jpg
+    大小: 285.57 KB → 255.53 KB
+    压缩率: 10.5%
+
+  static/images/Stir_Fried_Dishes/Light_Stir_Fried_Lettuce.jpg
+    大小: 274.62 KB → 252.63 KB
+    压缩率: 8.0%
+
+  static/images/Stir_Fried_Dishes/Light_Stir_Fried_Lettuce_Slices.jpg
+    大小: 365.35 KB → 349.51 KB
+    压缩率: 4.3%
+
+  static/images/Stir_Fried_Dishes/Light_Stir_Fried_Spring_Vegetables.jpg
+    大小: 224.36 KB → 196.79 KB
+    压缩率: 12.3%
+
+  static/images/Stir_Fried_Dishes/Mixed_Egg_Fried_Rice.jpg
+    大小: 259.17 KB → 226.22 KB
+    压缩率: 12.7%
+
+  static/images/Stir_Fried_Dishes/Pig_Intestine_Chicken.jpg
+    大小: 494.98 KB → 521.69 KB
+    压缩率: -5.4%
+
+  static/images/Stir_Fried_Dishes/Pineapple_Sweet_and_Sour_Pork.jpg
+    大小: 321.62 KB → 297.24 KB
+    压缩率: 7.6%
+
+  static/images/Stir_Fried_Dishes/Pineapple_Sweet_and_Sour_Pork_with_Seasonal_Vegetables_Rice.jpg
+    大小: 322.23 KB → 306.23 KB
+    压缩率: 5.0%
+
+  static/images/Stir_Fried_Dishes/Stir_Fried_Baby_Cabbage.jpg
+    大小: 300.55 KB → 284.88 KB
+    压缩率: 5.2%
+
+  static/images/Stir_Fried_Dishes/Stir_Fried_Cauliflower.jpg
+    大小: 352.77 KB → 338.61 KB
+    压缩率: 4.0%
+
+  static/images/Stir_Fried_Dishes/Stir_Fried_Chicken_Diced.jpg
+    大小: 275.56 KB → 261.37 KB
+    压缩率: 5.1%
+
+  static/images/Stir_Fried_Dishes/Stir_Fried_Gluten.jpg
+    大小: 301.31 KB → 259.72 KB
+    压缩率: 13.8%
+
+  static/images/Stir_Fried_Dishes/Stir_Fried_River_Shrimp.jpg
+    大小: 377.63 KB → 361.96 KB
+    压缩率: 4.1%
+
+  static/images/Stir_Fried_Dishes/Stir_Fried_Shanghai_Green.jpg
+    大小: 304.96 KB → 276.51 KB
+    压缩率: 9.3%
+
+  static/images/Stir_Fried_Dishes/Stir_Fried_Tofu.jpg
+    大小: 269.59 KB → 231.28 KB
+    压缩率: 14.2%
+
+  static/images/Stir_Fried_Dishes/Stir_Fried_Yellow_Beef.jpg
+    大小: 359.06 KB → 338.59 KB
+    压缩率: 5.7%
+
+  static/images/Stir_Fried_Dishes/Sweet_and_Sour_Spare_Ribs.jpg
+    大小: 294.53 KB → 269.07 KB
+    压缩率: 8.6%
+
+  static/images/Stir_Fried_Dishes/Taro_Chicken.jpg
+    大小: 443.99 KB → 428.37 KB
+    压缩率: 3.5%
+
+  static/images/Stir_Fried_Dishes/Tomato_Scrambled_Eggs.jpg
+    大小: 268.65 KB → 244.96 KB
+    压缩率: 8.8%
+
+  static/images/Stir_Fried_Gluten.png
+    大小: 18.74 KB → 5.10 KB
+    压缩率: 72.8%
+
+  static/images/Stir_Fried_River_Shrimp.png
+    大小: 15.73 KB → 5.69 KB
+    压缩率: 63.8%
+
+  static/images/Stir_Fried_Shanghai_Green.jpg
+    大小: 5.44 KB → 4.09 KB
+    压缩率: 24.8%
+
+  static/images/Stir_Fried_Tofu.jpg
+    大小: 5.56 KB → 4.20 KB
+    压缩率: 24.5%
+
+  static/images/Stir_Fried_Yellow_Beef.png
+    大小: 16.43 KB → 5.29 KB
+    压缩率: 67.8%
+
+  static/images/Stir_Fried_Yellow_Beef_(Green_Garlic_Sections).png
+    大小: 16.43 KB → 5.29 KB
+    压缩率: 67.8%
+
+  static/images/Sweet_and_Sour_Spare_Ribs.jpg
+    大小: 6.37 KB → 5.30 KB
+    压缩率: 16.8%
+
+  static/images/Taro_Chicken.jpg
+    大小: 8.37 KB → 7.34 KB
+    压缩率: 12.3%
+
+  static/images/Taro_Steamed_Spare_Ribs.png
+    大小: 16.88 KB → 4.57 KB
+    压缩率: 72.9%
+
+  static/images/Taro_Sweet_Potato_Balls.png
+    大小: 15.84 KB → 3.01 KB
+    压缩率: 81.0%
+
+  static/images/Tea_Eggs.png
+    大小: 14.35 KB → 4.15 KB
+    压缩率: 71.1%
+
+  static/images/Three_Color_Shrimp.jpg
+    大小: 7.39 KB → 6.21 KB
+    压缩率: 16.0%
+
+  static/images/Tomato_Egg_Noodles.jpg
+    大小: 7.82 KB → 6.56 KB
+    压缩率: 16.1%
+
+  static/images/Tomato_Scrambled_Eggs.jpg
+    大小: 4.89 KB → 3.56 KB
+    压缩率: 27.2%
+
+  static/images/Triple_Beef_Brisket_Noodles.png
+    大小: 22.45 KB → 8.72 KB
+    压缩率: 61.2%
+
+  static/images/Western_Celery_Peanuts.jpg
+    大小: 4.12 KB → 2.70 KB
+    压缩率: 34.4%
+
+  static/images/White_Cut_Chicken.png
+    大小: 19.61 KB → 4.26 KB
+    压缩率: 78.3%
+
+  static/images/White_Rice_Porridge.png
+    大小: 14.67 KB → 3.06 KB
+    压缩率: 79.2%
+
+  static/images/Wind_Dried_Beef_Steamed_Tofu.jpg
+    大小: 6.18 KB → 5.29 KB
+    压缩率: 14.4%
+
+--------------------------------------------------------------------------------
+跳过的文件 (1):
+
+  static/images/Bamboo_Pith_Velvet_Foot_Mushroom_Chicken_Soup.png
+    原因: webp 文件已存在
+
+--------------------------------------------------------------------------------
+失败的文件 (2):
+
+  static/ghibli_style/Apple_Hawthorn_Black_Tea.jpeg
+    原因: invalid JPEG format: missing SOI marker
+
+  static/images/Old_Chicken_Soup.jpg
+    原因: invalid JPEG format: missing SOI marker
+

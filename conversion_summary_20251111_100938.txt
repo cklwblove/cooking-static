@@ -1,0 +1,1152 @@
+图片转 WebP 格式转换总结
+生成时间: 2025-11-11 10:09:38
+================================================================================
+
+统计数据:
+  成功转换: 6 个文件
+  跳过文件: 366 个文件
+  失败文件: 2 个文件
+  总耗时: 4.329s
+
+体积对比:
+  转换前总体积: 1.98 MB
+  转换后总体积: 1.81 MB
+  节省空间: 0.17 MB (8.4%)
+
+--------------------------------------------------------------------------------
+成功转换的文件 (6):
+
+  static/default_0.jpeg
+    大小: 329.08 KB → 313.44 KB
+    压缩率: 4.8%
+
+  static/default_1.jpeg
+    大小: 321.35 KB → 299.77 KB
+    压缩率: 6.7%
+
+  static/default_2.jpeg
+    大小: 293.66 KB → 273.09 KB
+    压缩率: 7.0%
+
+  static/default_3.jpeg
+    大小: 314.98 KB → 267.69 KB
+    压缩率: 15.0%
+
+  static/default_4.jpeg
+    大小: 405.06 KB → 382.07 KB
+    压缩率: 5.7%
+
+  static/logo.jpeg
+    大小: 358.45 KB → 317.18 KB
+    压缩率: 11.5%
+
+--------------------------------------------------------------------------------
+跳过的文件 (366):
+
+  static/ghibli_style/Bamboo_Pith_Velvet_Foot_Mushroom_Chicken_Soup.jpeg
+    原因: webp 文件已存在
+
+  static/images/Apple_Hawthorn_Black_Tea.png
+    原因: webp 文件已存在
+
+  static/images/Bamboo_Pith_Velvet_Foot_Mushroom_Chicken_Soup.jpeg
+    原因: webp 文件已存在
+
+  static/images/Bamboo_Pith_Velvet_Foot_Mushroom_Chicken_Soup.png
+    原因: webp 文件已存在
+
+  static/images/Bamboo_Shoots_Braised_Pork.png
+    原因: webp 文件已存在
+
+  static/images/Bamboo_Shoots_Chicken_Dice_Rice_Bowl.png
+    原因: webp 文件已存在
+
+  static/images/Bamboo_Shoots_Steamed_Chicken_Wings.jpg
+    原因: webp 文件已存在
+
+  static/images/Bangbang_Shrimp.png
+    原因: webp 文件已存在
+
+  static/images/Beef_Box.png
+    原因: webp 文件已存在
+
+  static/images/Blanched_Dishes/Broccoli_with_Sauce.jpg
+    原因: webp 文件已存在
+
+  static/images/Blanched_Dishes/Chicken_Soup_Baby_Cabbage.jpg
+    原因: webp 文件已存在
+
+  static/images/Blanched_Dishes/Crispy_Wood_Ear_Mushrooms.jpg
+    原因: webp 文件已存在
+
+  static/images/Blanched_Dishes/Scallion_Oil_Chinese_Broccoli.jpg
+    原因: webp 文件已存在
+
+  static/images/Blanched_Dishes/Scallion_Oil_Mixed_Noodles.jpg
+    原因: webp 文件已存在
+
+  static/images/Blanched_Dishes/Scallion_Oil_Rapeseed.jpg
+    原因: webp 文件已存在
+
+  static/images/Blanched_Dishes/Special_Hot_Dry_Noodles.jpg
+    原因: webp 文件已存在
+
+  static/images/Blanched_Dishes/Spicy_Chicken_Pieces.jpg
+    原因: webp 文件已存在
+
+  static/images/Blanched_Dishes/Spinach_Egg_Skin_Shreds.jpg
+    原因: webp 文件已存在
+
+  static/images/Boiled_Eggs.png
+    原因: webp 文件已存在
+
+  static/images/Braised_Chicken_Feet.png
+    原因: webp 文件已存在
+
+  static/images/Braised_Chicken_Legs.png
+    原因: webp 文件已存在
+
+  static/images/Braised_Chicken_Wings.png
+    原因: webp 文件已存在
+
+  static/images/Braised_Eggplant.jpg
+    原因: webp 文件已存在
+
+  static/images/Braised_Fish_Fillet.png
+    原因: webp 文件已存在
+
+  static/images/Braised_Spare_Ribs.png
+    原因: webp 文件已存在
+
+  static/images/Braised_Tofu_Skin.png
+    原因: webp 文件已存在
+
+  static/images/Breakfast/Beef_Box.jpg
+    原因: webp 文件已存在
+
+  static/images/Breakfast/Boiled_Eggs.jpg
+    原因: webp 文件已存在
+
+  static/images/Breakfast/Chicken_Broth_Soup_Buns.jpg
+    原因: webp 文件已存在
+
+  static/images/Breakfast/Crispy_Beef_Pancake.jpg
+    原因: webp 文件已存在
+
+  static/images/Breakfast/Egg_Pancake.jpg
+    原因: webp 文件已存在
+
+  static/images/Breakfast/Flower_Roll.jpg
+    原因: webp 文件已存在
+
+  static/images/Breakfast/Fresh_Cooked_Bean_Porridge.jpg
+    原因: webp 文件已存在
+
+  static/images/Breakfast/Fresh_Fried_Youtiao.jpg
+    原因: webp 文件已存在
+
+  static/images/Breakfast/Handmade_Shaomai.jpg
+    原因: webp 文件已存在
+
+  static/images/Breakfast/Handmade_Spring_Rolls.jpg
+    原因: webp 文件已存在
+
+  static/images/Breakfast/Millet_Pumpkin_Porridge.jpg
+    原因: webp 文件已存在
+
+  static/images/Breakfast/Pastry_Radish_Shreds_Pie.jpg
+    原因: webp 文件已存在
+
+  static/images/Breakfast/Red_Bean_Paste_Yuanxiao.jpg
+    原因: webp 文件已存在
+
+  static/images/Breakfast/Rice_Ball.jpg
+    原因: webp 文件已存在
+
+  static/images/Breakfast/Rice_Cake.jpg
+    原因: webp 文件已存在
+
+  static/images/Breakfast/ShepherdS_Purse_Fresh_Meat_Dumplings.jpg
+    原因: webp 文件已存在
+
+  static/images/Breakfast/Steamed_Bun.jpg
+    原因: webp 文件已存在
+
+  static/images/Breakfast/Steamed_Stuffed_Bun.jpg
+    原因: webp 文件已存在
+
+  static/images/Breakfast/Tea_Eggs.jpg
+    原因: webp 文件已存在
+
+  static/images/Breakfast/White_Rice_Porridge.jpg
+    原因: webp 文件已存在
+
+  static/images/Broad_Beans_Scrambled_Eggs.jpg
+    原因: webp 文件已存在
+
+  static/images/Broccoli_with_Sauce.jpg
+    原因: webp 文件已存在
+
+  static/images/Cabbage_Stewed_Tofu.jpg
+    原因: webp 文件已存在
+
+  static/images/Carrot_Beef.png
+    原因: webp 文件已存在
+
+  static/images/Carrot_Scrambled_Eggs.jpg
+    原因: webp 文件已存在
+
+  static/images/Carrot_Stir_Fried_Pork_Slices.jpg
+    原因: webp 文件已存在
+
+  static/images/Carrot_Stir_Fried_Wood_Ear_Mushrooms.jpg
+    原因: webp 文件已存在
+
+  static/images/Casserole_Dishes/Clay_Pot_Beef_Offal_Hotpot.jpg
+    原因: webp 文件已存在
+
+  static/images/Casserole_Dishes/Clay_Pot_Garlic_Vermicelli_Shrimp.jpg
+    原因: webp 文件已存在
+
+  static/images/Casserole_Dishes/Clay_Pot_Original_Chicken_Soup_Rice_Noodles.jpg
+    原因: webp 文件已存在
+
+  static/images/Casserole_Dishes/Clay_Pot_Papaya.jpg
+    原因: webp 文件已存在
+
+  static/images/Casserole_Dishes/Clay_Pot_Pickled_Chili_Chicken_Nuggets_Rice_Noodles.jpg
+    原因: webp 文件已存在
+
+  static/images/Casserole_Dishes/Clay_Pot_Pickled_Vegetable_Fish.jpg
+    原因: webp 文件已存在
+
+  static/images/Casserole_Dishes/Clay_Pot_Salt_Baked_Chicken.jpg
+    原因: webp 文件已存在
+
+  static/images/Casserole_Dishes/Clay_Pot_Three_Delicacies_Tofu.jpg
+    原因: webp 文件已存在
+
+  static/images/Casserole_Dishes/Clay_Pot_Tofu_Skin.jpg
+    原因: webp 文件已存在
+
+  static/images/Casserole_Dishes/Clay_Pot_Tomato_Rice_Noodles.jpg
+    原因: webp 文件已存在
+
+  static/images/Casserole_Dishes/Pickled_Vegetable_Pig_Intestines_Hotpot.jpg
+    原因: webp 文件已存在
+
+  static/images/Celery_Stir_Fried_Tofu.jpg
+    原因: webp 文件已存在
+
+  static/images/Celery_Tofu_Stir_Fried_Shredded_Pork.jpg
+    原因: webp 文件已存在
+
+  static/images/Chicken_Blood_Soup.png
+    原因: webp 文件已存在
+
+  static/images/Chicken_Broth_Soup_Buns.png
+    原因: webp 文件已存在
+
+  static/images/Chicken_Feet_Steamed_Beans.png
+    原因: webp 文件已存在
+
+  static/images/Chicken_Juice_Spicy_Fish.png
+    原因: webp 文件已存在
+
+  static/images/Chicken_Onion_Rings.png
+    原因: webp 文件已存在
+
+  static/images/Chicken_Soup_Baby_Cabbage.jpg
+    原因: webp 文件已存在
+
+  static/images/Chinese_Toon_Scrambled_Eggs.jpg
+    原因: webp 文件已存在
+
+  static/images/Chopped_Chili_Fish_Head.png
+    原因: webp 文件已存在
+
+  static/images/Chopped_Chili_Fish_Head_(Grass_Carp_Head_Version).png
+    原因: webp 文件已存在
+
+  static/images/Chopped_Chili_Mushroom_Scrambled_Eggs.jpg
+    原因: webp 文件已存在
+
+  static/images/Clay_Pot_Beef_Offal_Hotpot.png
+    原因: webp 文件已存在
+
+  static/images/Clay_Pot_Garlic_Vermicelli_Shrimp.png
+    原因: webp 文件已存在
+
+  static/images/Clay_Pot_Original_Chicken_Soup_Rice_Noodles.png
+    原因: webp 文件已存在
+
+  static/images/Clay_Pot_Papaya.png
+    原因: webp 文件已存在
+
+  static/images/Clay_Pot_Pickled_Chili_Chicken_Nuggets_Rice_Noodles.png
+    原因: webp 文件已存在
+
+  static/images/Clay_Pot_Pickled_Vegetable_Fish.png
+    原因: webp 文件已存在
+
+  static/images/Clay_Pot_Salt_Baked_Chicken.png
+    原因: webp 文件已存在
+
+  static/images/Clay_Pot_Three_Delicacies_Tofu.png
+    原因: webp 文件已存在
+
+  static/images/Clay_Pot_Tofu_Skin.png
+    原因: webp 文件已存在
+
+  static/images/Clay_Pot_Tomato_Rice_Noodles.png
+    原因: webp 文件已存在
+
+  static/images/Claypot_ShepherdS_Purse_Fresh_Meat_Wonton.png
+    原因: webp 文件已存在
+
+  static/images/Coarse_Grain_Box.png
+    原因: webp 文件已存在
+
+  static/images/Cold_Dishes/Cold_Mixed_Lettuce_Shreds.jpg
+    原因: webp 文件已存在
+
+  static/images/Cold_Dishes/Lemon_Phoenix_Claws.jpg
+    原因: webp 文件已存在
+
+  static/images/Cold_Dishes/Mouth_Watering_Chicken.jpg
+    原因: webp 文件已存在
+
+  static/images/Cold_Dishes/Western_Celery_Peanuts.jpg
+    原因: webp 文件已存在
+
+  static/images/Cold_Mixed_Lettuce_Shreds.jpg
+    原因: webp 文件已存在
+
+  static/images/Crispy_Beef_Pancake.png
+    原因: webp 文件已存在
+
+  static/images/Crispy_Chicken_Nuggets.png
+    原因: webp 文件已存在
+
+  static/images/Crispy_Potato_Patties.png
+    原因: webp 文件已存在
+
+  static/images/Crispy_Wood_Ear_Mushrooms.jpg
+    原因: webp 文件已存在
+
+  static/images/Crunchy_Rapeseed_with_Cabbage.jpg
+    原因: webp 文件已存在
+
+  static/images/Dried_Mustard_Greens_with_Chicken_Feet_Wings.jpg
+    原因: webp 文件已存在
+
+  static/images/Edamame_Braised_Free_Range_Chicken.png
+    原因: webp 文件已存在
+
+  static/images/Egg_Pancake.png
+    原因: webp 文件已存在
+
+  static/images/Farmhouse_Steamed_Egg.jpg
+    原因: webp 文件已存在
+
+  static/images/Farmhouse_Stir_Fried_Pork_(Egg_White_Version).png
+    原因: webp 文件已存在
+
+  static/images/Farmhouse_Stir_Fried_Pork_(Wood_Ear_Version).png
+    原因: webp 文件已存在
+
+  static/images/Feixi_Old_Hen_Soup.png
+    原因: webp 文件已存在
+
+  static/images/Feixi_Old_Hen_Soup_Noodles.png
+    原因: webp 文件已存在
+
+  static/images/Fertilized_Duck_Egg.jpg
+    原因: webp 文件已存在
+
+  static/images/Fish_Flavored_Shredded_Pork.png
+    原因: webp 文件已存在
+
+  static/images/Fish_Flavored_Shredded_Pork_Rice_Bowl.jpg
+    原因: webp 文件已存在
+
+  static/images/Flower_Roll.png
+    原因: webp 文件已存在
+
+  static/images/Fresh_Cooked_Bean_Porridge.png
+    原因: webp 文件已存在
+
+  static/images/Fresh_Fried_Youtiao.png
+    原因: webp 文件已存在
+
+  static/images/Fried_Chicken_Leg_with_Vegetables_Noodles.png
+    原因: webp 文件已存在
+
+  static/images/Fried_Chicken_Legs.png
+    原因: webp 文件已存在
+
+  static/images/Fried_Chicken_Steak.png
+    原因: webp 文件已存在
+
+  static/images/Fried_Items/Bangbang_Shrimp.jpg
+    原因: webp 文件已存在
+
+  static/images/Fried_Items/Chicken_Onion_Rings.jpg
+    原因: webp 文件已存在
+
+  static/images/Fried_Items/Crispy_Chicken_Nuggets.jpg
+    原因: webp 文件已存在
+
+  static/images/Fried_Items/Crispy_Potato_Patties.jpg
+    原因: webp 文件已存在
+
+  static/images/Fried_Items/Fried_Chicken_Legs.jpg
+    原因: webp 文件已存在
+
+  static/images/Fried_Items/Fried_Chicken_Steak.jpg
+    原因: webp 文件已存在
+
+  static/images/Fried_Items/Heart_Shaped_Chicken_Steak.jpg
+    原因: webp 文件已存在
+
+  static/images/Fried_Items/HiHi_Bucket_(Fried_Food).jpg
+    原因: webp 文件已存在
+
+  static/images/Fried_Items/Pistol_Big_Chicken_Legs.jpg
+    原因: webp 文件已存在
+
+  static/images/Fried_Items/Proud_Pepper_Style_Chicken_Wing_Tips.jpg
+    原因: webp 文件已存在
+
+  static/images/Fried_Items/Raw_Fried_Big_Chicken_Legs.jpg
+    原因: webp 文件已存在
+
+  static/images/Fried_Items/Taro_Sweet_Potato_Balls.jpg
+    原因: webp 文件已存在
+
+  static/images/Garlic_Baby_Cabbage.jpg
+    原因: webp 文件已存在
+
+  static/images/Garlic_Spinach.jpg
+    原因: webp 文件已存在
+
+  static/images/Garlic_Vermicelli_Shrimp.png
+    原因: webp 文件已存在
+
+  static/images/Golden_Soup_Pickled_Vegetable_Fish.png
+    原因: webp 文件已存在
+
+  static/images/Golden_Soup_Pickled_Vegetable_Fish_(Large).png
+    原因: webp 文件已存在
+
+  static/images/GrandmaS_Vegetable_Scrambled_Eggs.png
+    原因: webp 文件已存在
+
+  static/images/Green_Pepper_Stir_Fried_Bean_Sprouts.jpg
+    原因: webp 文件已存在
+
+  static/images/Green_Pepper_with_Eggs.jpg
+    原因: webp 文件已存在
+
+  static/images/Grilled_Items/Grilled_Sausage.jpg
+    原因: webp 文件已存在
+
+  static/images/Grilled_Sausage.png
+    原因: webp 文件已存在
+
+  static/images/Guizhou_Style_Spicy_Chicken.png
+    原因: webp 文件已存在
+
+  static/images/Handmade_Shaomai.png
+    原因: webp 文件已存在
+
+  static/images/Handmade_Spring_Rolls.png
+    原因: webp 文件已存在
+
+  static/images/Heart_Shaped_Chicken_Steak.png
+    原因: webp 文件已存在
+
+  static/images/HiHi_Bucket_(Fried_Food).png
+    原因: webp 文件已存在
+
+  static/images/HiHi_Bucket_(Spicy_Oil_Skewers).png
+    原因: webp 文件已存在
+
+  static/images/HiHi_Pot_(Pickled_Pepper_Chicken_Nuggets_Vermicelli).png
+    原因: webp 文件已存在
+
+  static/images/HiHi_Pot_(Pickled_Vegetable_Fish_Vermicelli).png
+    原因: webp 文件已存在
+
+  static/images/HiHi_Pot_(Tomato_Fatty_Beef_Hot_Pot).png
+    原因: webp 文件已存在
+
+  static/images/HiHi_Pot_(Vegetable_Hot_Pot).png
+    原因: webp 文件已存在
+
+  static/images/Home_Style_Potato_Slices.jpg
+    原因: webp 文件已存在
+
+  static/images/Home_Style_Stir_Fry.jpg
+    原因: webp 文件已存在
+
+  static/images/Honey_Glazed_Pumpkin.jpg
+    原因: webp 文件已存在
+
+  static/images/Hot_Milk_Tea.png
+    原因: webp 文件已存在
+
+  static/images/Hot_Pot/Golden_Soup_Pickled_Vegetable_Fish.jpg
+    原因: webp 文件已存在
+
+  static/images/Hot_Pot/Golden_Soup_Pickled_Vegetable_Fish_(Large).jpg
+    原因: webp 文件已存在
+
+  static/images/Hot_Pot/HiHi_Pot_(Pickled_Pepper_Chicken_Nuggets_Vermicelli).jpg
+    原因: webp 文件已存在
+
+  static/images/Hot_Pot/HiHi_Pot_(Pickled_Vegetable_Fish_Vermicelli).jpg
+    原因: webp 文件已存在
+
+  static/images/Hot_Pot/HiHi_Pot_(Tomato_Fatty_Beef_Hot_Pot).jpg
+    原因: webp 文件已存在
+
+  static/images/Hot_Pot/HiHi_Pot_(Vegetable_Hot_Pot).jpg
+    原因: webp 文件已存在
+
+  static/images/Hot_Pot/Spicy_Roast_Duck_Hotpot.jpg
+    原因: webp 文件已存在
+
+  static/images/Hot_and_Sour_Kelp_Shreds.jpg
+    原因: webp 文件已存在
+
+  static/images/Hot_and_Sour_Shredded_Potato.jpg
+    原因: webp 文件已存在
+
+  static/images/Kaffir_Lime_Lemon_Tea.png
+    原因: webp 文件已存在
+
+  static/images/Kung_Pao_Chicken.png
+    原因: webp 文件已存在
+
+  static/images/Large_Plate_Pig_Intestine_Chicken_Handmade_Noodles.png
+    原因: webp 文件已存在
+
+  static/images/Lemon_Phoenix_Claws.jpg
+    原因: webp 文件已存在
+
+  static/images/Lettuce_Shreds_Scrambled_Eggs.jpg
+    原因: webp 文件已存在
+
+  static/images/Light_Stir_Fried_Broccoli.jpg
+    原因: webp 文件已存在
+
+  static/images/Light_Stir_Fried_Chinese_Broccoli.jpg
+    原因: webp 文件已存在
+
+  static/images/Light_Stir_Fried_Greens.jpg
+    原因: webp 文件已存在
+
+  static/images/Light_Stir_Fried_Lettuce.jpg
+    原因: webp 文件已存在
+
+  static/images/Light_Stir_Fried_Lettuce_Slices.jpg
+    原因: webp 文件已存在
+
+  static/images/Light_Stir_Fried_Spring_Vegetables.jpg
+    原因: webp 文件已存在
+
+  static/images/Mapo_Tofu.jpg
+    原因: webp 文件已存在
+
+  static/images/Marinated_Dishes/Braised_Chicken_Feet.jpg
+    原因: webp 文件已存在
+
+  static/images/Marinated_Dishes/Braised_Chicken_Legs.jpg
+    原因: webp 文件已存在
+
+  static/images/Marinated_Dishes/Braised_Chicken_Wings.jpg
+    原因: webp 文件已存在
+
+  static/images/Marinated_Dishes/Braised_Spare_Ribs.jpg
+    原因: webp 文件已存在
+
+  static/images/Marinated_Dishes/Braised_Tofu_Skin.jpg
+    原因: webp 文件已存在
+
+  static/images/Marinated_Dishes/HiHi_Bucket_(Spicy_Oil_Skewers).jpg
+    原因: webp 文件已存在
+
+  static/images/Milk_Yolk_Chicken_Buns.png
+    原因: webp 文件已存在
+
+  static/images/Millet_Pumpkin_Porridge.png
+    原因: webp 文件已存在
+
+  static/images/Minced_Meat_Steamed_Egg.png
+    原因: webp 文件已存在
+
+  static/images/Mixed_Egg_Fried_Rice.png
+    原因: webp 文件已存在
+
+  static/images/Mixed_Grain_Rice.png
+    原因: webp 文件已存在
+
+  static/images/Mouth_Watering_Chicken.png
+    原因: webp 文件已存在
+
+  static/images/Old_Chicken_Rice_Noodles.png
+    原因: webp 文件已存在
+
+  static/images/Original_Soy_Milk.png
+    原因: webp 文件已存在
+
+  static/images/Original_Soy_Milk_(Fresh_Ground).png
+    原因: webp 文件已存在
+
+  static/images/Orleans_Chicken_Wings.jpg
+    原因: webp 文件已存在
+
+  static/images/Orleans_Chicken_Wings_(Kids_Meal_Version).jpg
+    原因: webp 文件已存在
+
+  static/images/Pastry_Radish_Shreds_Pie.png
+    原因: webp 文件已存在
+
+  static/images/Pickled_Vegetable_Pig_Intestines_Hotpot.png
+    原因: webp 文件已存在
+
+  static/images/Pig_Intestine_Chicken.jpg
+    原因: webp 文件已存在
+
+  static/images/Pineapple_Sweet_and_Sour_Pork.png
+    原因: webp 文件已存在
+
+  static/images/Pineapple_Sweet_and_Sour_Pork_with_Seasonal_Vegetables_Rice.jpg
+    原因: webp 文件已存在
+
+  static/images/Pistol_Big_Chicken_Legs.jpg
+    原因: webp 文件已存在
+
+  static/images/Plain_Noodles.png
+    原因: webp 文件已存在
+
+  static/images/Pork_Chop_Noodles.png
+    原因: webp 文件已存在
+
+  static/images/Potato_Beef_Brisket.png
+    原因: webp 文件已存在
+
+  static/images/Preserved_Vegetable_with_Pork.png
+    原因: webp 文件已存在
+
+  static/images/Proud_Pepper_Style_Chicken_Wing_Tips.png
+    原因: webp 文件已存在
+
+  static/images/Raw_Fried_Big_Chicken_Legs.png
+    原因: webp 文件已存在
+
+  static/images/Red_Bean_Paste_Yuanxiao.png
+    原因: webp 文件已存在
+
+  static/images/Rice.png
+    原因: webp 文件已存在
+
+  static/images/Rice_Ball.png
+    原因: webp 文件已存在
+
+  static/images/Rice_Ball_2.png
+    原因: webp 文件已存在
+
+  static/images/Rice_Ball_3.png
+    原因: webp 文件已存在
+
+  static/images/Rice_Cake.png
+    原因: webp 文件已存在
+
+  static/images/Rich_Whole_Chicken_Soup_Noodles.png
+    原因: webp 文件已存在
+
+  static/images/Sauce_Chili_Garlic_Fish_Fillets.png
+    原因: webp 文件已存在
+
+  static/images/Sauce_Steamed_Dried_Tofu.png
+    原因: webp 文件已存在
+
+  static/images/Sauce_Steamed_Tofu.jpg
+    原因: webp 文件已存在
+
+  static/images/Saucy_Small_River_Shrimp.jpg
+    原因: webp 文件已存在
+
+  static/images/Sausage_Steamed_Beans.png
+    原因: webp 文件已存在
+
+  static/images/Scallion_Oil_Chicken.png
+    原因: webp 文件已存在
+
+  static/images/Scallion_Oil_Chinese_Broccoli.jpg
+    原因: webp 文件已存在
+
+  static/images/Scallion_Oil_Mixed_Noodles.png
+    原因: webp 文件已存在
+
+  static/images/Scallion_Oil_Rapeseed.png
+    原因: webp 文件已存在
+
+  static/images/Secret_Sauce_Braised_Pork_Rice.png
+    原因: webp 文件已存在
+
+  static/images/ShepherdS_Purse_Fresh_Meat_Dumplings.png
+    原因: webp 文件已存在
+
+  static/images/Shiitake_Mushroom_Chicken_Soup_Noodles.png
+    原因: webp 文件已存在
+
+  static/images/Shrimp_Steamed_Egg.jpg
+    原因: webp 文件已存在
+
+  static/images/Snowy_Vegetable_Shredded_Pork_Noodles.png
+    原因: webp 文件已存在
+
+  static/images/Song_Gao_(Steamed_Cake).png
+    原因: webp 文件已存在
+
+  static/images/Soup/Bamboo_Pith_Velvet_Foot_Mushroom_Chicken_Soup.jpg
+    原因: webp 文件已存在
+
+  static/images/Soup/Feixi_Old_Hen_Soup_(Single_Serving).jpg
+    原因: webp 文件已存在
+
+  static/images/Soup/Old_Chicken_Soup.jpg
+    原因: webp 文件已存在
+
+  static/images/Special_Chicken_Soup_Wonton.png
+    原因: webp 文件已存在
+
+  static/images/Special_Hot_Dry_Noodles.png
+    原因: webp 文件已存在
+
+  static/images/Spicy_Beef_Noodles.png
+    原因: webp 文件已存在
+
+  static/images/Spicy_Blood_Curd.png
+    原因: webp 文件已存在
+
+  static/images/Spicy_Chicken_Dice_Mixed_Noodles.png
+    原因: webp 文件已存在
+
+  static/images/Spicy_Chicken_Offal.jpg
+    原因: webp 文件已存在
+
+  static/images/Spicy_Chicken_Pieces.jpg
+    原因: webp 文件已存在
+
+  static/images/Spicy_Roast_Duck_Hotpot.png
+    原因: webp 文件已存在
+
+  static/images/Spinach_Egg_Skin_Shreds.jpg
+    原因: webp 文件已存在
+
+  static/images/Staples/Claypot_ShepherdS_Purse_Fresh_Meat_Wonton.jpg
+    原因: webp 文件已存在
+
+  static/images/Staples/Feixi_Old_Hen_Soup_Noodles.jpg
+    原因: webp 文件已存在
+
+  static/images/Staples/Fried_Chicken_Leg_with_Vegetables_Noodles.jpg
+    原因: webp 文件已存在
+
+  static/images/Staples/Large_Plate_Pig_Intestine_Chicken_Handmade_Noodles.jpg
+    原因: webp 文件已存在
+
+  static/images/Staples/Mixed_Grain_Rice.jpg
+    原因: webp 文件已存在
+
+  static/images/Staples/Old_Chicken_Rice_Noodles.jpg
+    原因: webp 文件已存在
+
+  static/images/Staples/Plain_Noodles.jpg
+    原因: webp 文件已存在
+
+  static/images/Staples/Pork_Chop_Noodles.jpg
+    原因: webp 文件已存在
+
+  static/images/Staples/Rice.jpg
+    原因: webp 文件已存在
+
+  static/images/Staples/Rich_Whole_Chicken_Soup_Noodles.jpg
+    原因: webp 文件已存在
+
+  static/images/Staples/Shiitake_Mushroom_Chicken_Soup_Noodles.jpg
+    原因: webp 文件已存在
+
+  static/images/Staples/Snowy_Vegetable_Shredded_Pork_Noodles.jpg
+    原因: webp 文件已存在
+
+  static/images/Staples/Special_Chicken_Soup_Wonton.jpg
+    原因: webp 文件已存在
+
+  static/images/Staples/Spicy_Beef_Noodles.jpg
+    原因: webp 文件已存在
+
+  static/images/Staples/Spicy_Chicken_Dice_Mixed_Noodles.jpg
+    原因: webp 文件已存在
+
+  static/images/Staples/Tomato_Egg_Noodles.jpg
+    原因: webp 文件已存在
+
+  static/images/Staples/Triple_Beef_Brisket_Noodles.jpg
+    原因: webp 文件已存在
+
+  static/images/Steamed_Bun.png
+    原因: webp 文件已存在
+
+  static/images/Steamed_Bun_2.png
+    原因: webp 文件已存在
+
+  static/images/Steamed_Bun_3.png
+    原因: webp 文件已存在
+
+  static/images/Steamed_Bun_4.png
+    原因: webp 文件已存在
+
+  static/images/Steamed_Bun_5.png
+    原因: webp 文件已存在
+
+  static/images/Steamed_Dishes/Bamboo_Shoots_Steamed_Chicken_Wings.jpg
+    原因: webp 文件已存在
+
+  static/images/Steamed_Dishes/Carrot_Beef.jpg
+    原因: webp 文件已存在
+
+  static/images/Steamed_Dishes/Chicken_Feet_Steamed_Beans.jpg
+    原因: webp 文件已存在
+
+  static/images/Steamed_Dishes/Chicken_Juice_Spicy_Fish.jpg
+    原因: webp 文件已存在
+
+  static/images/Steamed_Dishes/Chopped_Chili_Fish_Head.jpg
+    原因: webp 文件已存在
+
+  static/images/Steamed_Dishes/Coarse_Grain_Box.jpg
+    原因: webp 文件已存在
+
+  static/images/Steamed_Dishes/Farmhouse_Steamed_Egg.jpg
+    原因: webp 文件已存在
+
+  static/images/Steamed_Dishes/Fertilized_Duck_Egg.jpg
+    原因: webp 文件已存在
+
+  static/images/Steamed_Dishes/Garlic_Baby_Cabbage.jpg
+    原因: webp 文件已存在
+
+  static/images/Steamed_Dishes/Garlic_Vermicelli_Shrimp.jpg
+    原因: webp 文件已存在
+
+  static/images/Steamed_Dishes/Honey_Glazed_Pumpkin.jpg
+    原因: webp 文件已存在
+
+  static/images/Steamed_Dishes/Minced_Meat_Steamed_Egg.jpg
+    原因: webp 文件已存在
+
+  static/images/Steamed_Dishes/Orleans_Chicken_Wings.jpg
+    原因: webp 文件已存在
+
+  static/images/Steamed_Dishes/Preserved_Vegetable_with_Pork.jpg
+    原因: webp 文件已存在
+
+  static/images/Steamed_Dishes/Sauce_Chili_Garlic_Fish_Fillets.jpg
+    原因: webp 文件已存在
+
+  static/images/Steamed_Dishes/Sauce_Steamed_Dried_Tofu.jpg
+    原因: webp 文件已存在
+
+  static/images/Steamed_Dishes/Sauce_Steamed_Tofu.jpg
+    原因: webp 文件已存在
+
+  static/images/Steamed_Dishes/Saucy_Small_River_Shrimp.jpg
+    原因: webp 文件已存在
+
+  static/images/Steamed_Dishes/Sausage_Steamed_Beans.jpg
+    原因: webp 文件已存在
+
+  static/images/Steamed_Dishes/Scallion_Oil_Chicken.jpg
+    原因: webp 文件已存在
+
+  static/images/Steamed_Dishes/Secret_Sauce_Braised_Pork_Rice.jpg
+    原因: webp 文件已存在
+
+  static/images/Steamed_Dishes/Shrimp_Steamed_Egg.jpg
+    原因: webp 文件已存在
+
+  static/images/Steamed_Dishes/Song_Gao_(Steamed_Cake).jpg
+    原因: webp 文件已存在
+
+  static/images/Steamed_Dishes/Spicy_Blood_Curd.jpg
+    原因: webp 文件已存在
+
+  static/images/Steamed_Dishes/Steamed_Pork_with_Rice_Flour.jpg
+    原因: webp 文件已存在
+
+  static/images/Steamed_Dishes/Taro_Steamed_Spare_Ribs.jpg
+    原因: webp 文件已存在
+
+  static/images/Steamed_Dishes/Three_Color_Shrimp.jpg
+    原因: webp 文件已存在
+
+  static/images/Steamed_Dishes/White_Cut_Chicken.jpg
+    原因: webp 文件已存在
+
+  static/images/Steamed_Dishes/Wind_Dried_Beef_Steamed_Tofu.jpg
+    原因: webp 文件已存在
+
+  static/images/Steamed_Pork_with_Rice_Flour.png
+    原因: webp 文件已存在
+
+  static/images/Steamed_Stuffed_Bun.png
+    原因: webp 文件已存在
+
+  static/images/Stewed_Dishes/Braised_Fish_Fillet.jpg
+    原因: webp 文件已存在
+
+  static/images/Stewed_Dishes/Cabbage_Stewed_Tofu.jpg
+    原因: webp 文件已存在
+
+  static/images/Stewed_Dishes/Chicken_Blood_Soup.jpg
+    原因: webp 文件已存在
+
+  static/images/Stewed_Dishes/Dried_Mustard_Greens_with_Chicken_Feet_Wings.jpg
+    原因: webp 文件已存在
+
+  static/images/Stewed_Dishes/Mapo_Tofu.jpg
+    原因: webp 文件已存在
+
+  static/images/Stewed_Dishes/Potato_Beef_Brisket.jpg
+    原因: webp 文件已存在
+
+  static/images/Stewed_Dishes/Spicy_Chicken_Offal.jpg
+    原因: webp 文件已存在
+
+  static/images/Stir_Fried_Baby_Cabbage.jpg
+    原因: webp 文件已存在
+
+  static/images/Stir_Fried_Cauliflower.jpg
+    原因: webp 文件已存在
+
+  static/images/Stir_Fried_Chicken_Diced.jpg
+    原因: webp 文件已存在
+
+  static/images/Stir_Fried_Dishes/Bamboo_Shoots_Braised_Pork.jpg
+    原因: webp 文件已存在
+
+  static/images/Stir_Fried_Dishes/Bamboo_Shoots_Chicken_Dice_Rice_Bowl.jpg
+    原因: webp 文件已存在
+
+  static/images/Stir_Fried_Dishes/Braised_Eggplant.jpg
+    原因: webp 文件已存在
+
+  static/images/Stir_Fried_Dishes/Broad_Beans_Scrambled_Eggs.jpg
+    原因: webp 文件已存在
+
+  static/images/Stir_Fried_Dishes/Carrot_Scrambled_Eggs.jpg
+    原因: webp 文件已存在
+
+  static/images/Stir_Fried_Dishes/Carrot_Stir_Fried_Pork_Slices.jpg
+    原因: webp 文件已存在
+
+  static/images/Stir_Fried_Dishes/Carrot_Stir_Fried_Wood_Ear_Mushrooms.jpg
+    原因: webp 文件已存在
+
+  static/images/Stir_Fried_Dishes/Celery_Stir_Fried_Tofu.jpg
+    原因: webp 文件已存在
+
+  static/images/Stir_Fried_Dishes/Celery_Tofu_Stir_Fried_Shredded_Pork.jpg
+    原因: webp 文件已存在
+
+  static/images/Stir_Fried_Dishes/Chinese_Toon_Scrambled_Eggs.jpg
+    原因: webp 文件已存在
+
+  static/images/Stir_Fried_Dishes/Chopped_Chili_Mushroom_Scrambled_Eggs.jpg
+    原因: webp 文件已存在
+
+  static/images/Stir_Fried_Dishes/Crunchy_Rapeseed_with_Cabbage.jpg
+    原因: webp 文件已存在
+
+  static/images/Stir_Fried_Dishes/Edamame_Braised_Free_Range_Chicken.jpg
+    原因: webp 文件已存在
+
+  static/images/Stir_Fried_Dishes/Farmhouse_Stir_Fried_Pork_(Egg_White_Version).jpg
+    原因: webp 文件已存在
+
+  static/images/Stir_Fried_Dishes/Farmhouse_Stir_Fried_Pork_(Wood_Ear_Version).jpg
+    原因: webp 文件已存在
+
+  static/images/Stir_Fried_Dishes/Fish_Flavored_Shredded_Pork.jpg
+    原因: webp 文件已存在
+
+  static/images/Stir_Fried_Dishes/Fish_Flavored_Shredded_Pork_Rice_Bowl.jpg
+    原因: webp 文件已存在
+
+  static/images/Stir_Fried_Dishes/Garlic_Spinach.jpg
+    原因: webp 文件已存在
+
+  static/images/Stir_Fried_Dishes/GrandmaS_Vegetable_Scrambled_Eggs.jpg
+    原因: webp 文件已存在
+
+  static/images/Stir_Fried_Dishes/Green_Pepper_Stir_Fried_Bean_Sprouts.jpg
+    原因: webp 文件已存在
+
+  static/images/Stir_Fried_Dishes/Green_Pepper_with_Eggs.jpg
+    原因: webp 文件已存在
+
+  static/images/Stir_Fried_Dishes/Guizhou_Style_Spicy_Chicken.jpg
+    原因: webp 文件已存在
+
+  static/images/Stir_Fried_Dishes/Home_Style_Potato_Slices.jpg
+    原因: webp 文件已存在
+
+  static/images/Stir_Fried_Dishes/Home_Style_Stir_Fry.jpg
+    原因: webp 文件已存在
+
+  static/images/Stir_Fried_Dishes/Hot_and_Sour_Kelp_Shreds.jpg
+    原因: webp 文件已存在
+
+  static/images/Stir_Fried_Dishes/Hot_and_Sour_Shredded_Potato.jpg
+    原因: webp 文件已存在
+
+  static/images/Stir_Fried_Dishes/Kung_Pao_Chicken.jpg
+    原因: webp 文件已存在
+
+  static/images/Stir_Fried_Dishes/Lettuce_Shreds_Scrambled_Eggs.jpg
+    原因: webp 文件已存在
+
+  static/images/Stir_Fried_Dishes/Light_Stir_Fried_Broccoli.jpg
+    原因: webp 文件已存在
+
+  static/images/Stir_Fried_Dishes/Light_Stir_Fried_Chinese_Broccoli.jpg
+    原因: webp 文件已存在
+
+  static/images/Stir_Fried_Dishes/Light_Stir_Fried_Greens.jpg
+    原因: webp 文件已存在
+
+  static/images/Stir_Fried_Dishes/Light_Stir_Fried_Lettuce.jpg
+    原因: webp 文件已存在
+
+  static/images/Stir_Fried_Dishes/Light_Stir_Fried_Lettuce_Slices.jpg
+    原因: webp 文件已存在
+
+  static/images/Stir_Fried_Dishes/Light_Stir_Fried_Spring_Vegetables.jpg
+    原因: webp 文件已存在
+
+  static/images/Stir_Fried_Dishes/Mixed_Egg_Fried_Rice.jpg
+    原因: webp 文件已存在
+
+  static/images/Stir_Fried_Dishes/Pig_Intestine_Chicken.jpg
+    原因: webp 文件已存在
+
+  static/images/Stir_Fried_Dishes/Pineapple_Sweet_and_Sour_Pork.jpg
+    原因: webp 文件已存在
+
+  static/images/Stir_Fried_Dishes/Pineapple_Sweet_and_Sour_Pork_with_Seasonal_Vegetables_Rice.jpg
+    原因: webp 文件已存在
+
+  static/images/Stir_Fried_Dishes/Stir_Fried_Baby_Cabbage.jpg
+    原因: webp 文件已存在
+
+  static/images/Stir_Fried_Dishes/Stir_Fried_Cauliflower.jpg
+    原因: webp 文件已存在
+
+  static/images/Stir_Fried_Dishes/Stir_Fried_Chicken_Diced.jpg
+    原因: webp 文件已存在
+
+  static/images/Stir_Fried_Dishes/Stir_Fried_Gluten.jpg
+    原因: webp 文件已存在
+
+  static/images/Stir_Fried_Dishes/Stir_Fried_River_Shrimp.jpg
+    原因: webp 文件已存在
+
+  static/images/Stir_Fried_Dishes/Stir_Fried_Shanghai_Green.jpg
+    原因: webp 文件已存在
+
+  static/images/Stir_Fried_Dishes/Stir_Fried_Tofu.jpg
+    原因: webp 文件已存在
+
+  static/images/Stir_Fried_Dishes/Stir_Fried_Yellow_Beef.jpg
+    原因: webp 文件已存在
+
+  static/images/Stir_Fried_Dishes/Sweet_and_Sour_Spare_Ribs.jpg
+    原因: webp 文件已存在
+
+  static/images/Stir_Fried_Dishes/Taro_Chicken.jpg
+    原因: webp 文件已存在
+
+  static/images/Stir_Fried_Dishes/Tomato_Scrambled_Eggs.jpg
+    原因: webp 文件已存在
+
+  static/images/Stir_Fried_Gluten.png
+    原因: webp 文件已存在
+
+  static/images/Stir_Fried_River_Shrimp.png
+    原因: webp 文件已存在
+
+  static/images/Stir_Fried_Shanghai_Green.jpg
+    原因: webp 文件已存在
+
+  static/images/Stir_Fried_Tofu.jpg
+    原因: webp 文件已存在
+
+  static/images/Stir_Fried_Yellow_Beef.png
+    原因: webp 文件已存在
+
+  static/images/Stir_Fried_Yellow_Beef_(Green_Garlic_Sections).png
+    原因: webp 文件已存在
+
+  static/images/Sweet_and_Sour_Spare_Ribs.jpg
+    原因: webp 文件已存在
+
+  static/images/Taro_Chicken.jpg
+    原因: webp 文件已存在
+
+  static/images/Taro_Steamed_Spare_Ribs.png
+    原因: webp 文件已存在
+
+  static/images/Taro_Sweet_Potato_Balls.png
+    原因: webp 文件已存在
+
+  static/images/Tea_Eggs.png
+    原因: webp 文件已存在
+
+  static/images/Three_Color_Shrimp.jpg
+    原因: webp 文件已存在
+
+  static/images/Tomato_Egg_Noodles.jpg
+    原因: webp 文件已存在
+
+  static/images/Tomato_Scrambled_Eggs.jpg
+    原因: webp 文件已存在
+
+  static/images/Triple_Beef_Brisket_Noodles.png
+    原因: webp 文件已存在
+
+  static/images/Western_Celery_Peanuts.jpg
+    原因: webp 文件已存在
+
+  static/images/White_Cut_Chicken.png
+    原因: webp 文件已存在
+
+  static/images/White_Rice_Porridge.png
+    原因: webp 文件已存在
+
+  static/images/Wind_Dried_Beef_Steamed_Tofu.jpg
+    原因: webp 文件已存在
+
+--------------------------------------------------------------------------------
+失败的文件 (2):
+
+  static/ghibli_style/Apple_Hawthorn_Black_Tea.jpeg
+    原因: invalid JPEG format: missing SOI marker
+
+  static/images/Old_Chicken_Soup.jpg
+    原因: invalid JPEG format: missing SOI marker
+
